@@ -39,7 +39,7 @@ def markov_next(curr, probDict):
 				return succ
 		return random.choice(list(probDict.keys()))
 
-def makeCocktail(curr, probDict, T = 5):
+def makeCocktail(curr, probDict, T = 4):
 	cocktail = [curr]
 	for t in range(T):
 		cocktail.append(markov_next(cocktail[-1], probDict))
@@ -47,7 +47,7 @@ def makeCocktail(curr, probDict, T = 5):
 
 if __name__ == '__main__':
 	cocktailFreqDict = {}
-	cocktailProbDict = addToDict('ingredients.txt', cocktailFreqDict)
+	cocktailProbDict = addToDict('cocktails.txt', cocktailFreqDict)
 
 	startWord = input("What do you want to start your cocktail with?\n > ")
 	print("Alright, here's your cocktail:")

@@ -1,54 +1,54 @@
-Light rum
+Light_rum
 Applejack
 Gin
-Dark rum
-Sweet Vermouth
-Strawberry schnapps
+Dark_rum
+Sweet_Vermouth
+Strawberry_schnapps
 Scotch
-Apricot brandy
-Triple sec
-Southern Comfort
-Orange bitters
+Apricot_brandy
+Triple_sec
+Southern_Comfort
+Orange_bitters
 Brandy
-Lemon vodka
-Blended whiskey
-Dry Vermouth
+Lemon_vodka
+Blended_whiskey
+Dry_Vermouth
 Amaretto
 Tea
 Champagne
-Coffee liqueur
+Coffee_liqueur
 Bourbon
 Tequila
 Vodka
-AÃ±ejo rum
+AÃ±ejo_rum
 Bitters
 Sugar
 Kahlua
-demerara Sugar
-Dubonnet Rouge
-Lime juice
-Irish whiskey
-Apple brandy
-Carbonated water
-Cherry brandy
-Creme de Cacao
+demerara_Sugar
+Dubonnet_Rouge
+Lime_juice
+Irish_whiskey
+Apple_brandy
+Carbonated_water
+Cherry_brandy
+Creme_de_Cacao
 Grenadine
 Port
-Coffee brandy
-Red wine
+Coffee_brandy
+Red_wine
 Rum
-Grapefruit juice
+Grapefruit_juice
 Ricard
 Sherry
 Cognac
-Sloe gin
-Apple juice
-Pineapple juice
-Lemon juice
-Sugar syrup
+Sloe_gin
+Apple_juice
+Pineapple_juice
+Lemon_juice
+Sugar_syrup
 Milk
 Strawberries
-Chocolate syrup
+Chocolate_syrup
 Yoghurt
 Mango
 Ginger
@@ -57,104 +57,104 @@ Cantaloupe
 Berries
 Grapes
 Kiwi
-Tomato juice
-Cocoa powder
+Tomato_juice
+Cocoa_powder
 Chocolate
-Heavy cream
+Heavy_cream
 Galliano
-Peach Vodka
+Peach_Vodka
 Ouzo
 Coffee
-Spiced rum
+Spiced_rum
 Water
 Espresso
-Angelica root
+Angelica_root
 Orange
 Cranberries
-Johnnie Walker
-Apple cider
+Johnnie_Walker
+Apple_cider
 Everclear
-Cranberry juice
-Egg yolk
+Cranberry_juice
+Egg_yolk
 Egg
-Grape juice
-Peach nectar
+Grape_juice
+Peach_nectar
 Lemon
 Firewater
 Lemonade
 Lager
 Whiskey
-Absolut Citron
+Absolut_Citron
 Pisco
-Irish cream
+Irish_cream
 Ale
-Chocolate liqueur
-Midori melon liqueur
+Chocolate_liqueur
+Midori_melon_liqueur
 Sambuca
 Cider
 Sprite
 7-Up
-Blackberry brandy
-Peppermint schnapps
-Creme de Cassis
-Jack Daniels
-Bailey's irish cream
-151 proof rum
-Absolut Vodka
+Blackberry_brandy
+Peppermint_schnapps
+Creme_de_Cassis
+Jack_Daniels
+Bailey's_irish_cream
+151_proof_rum
+Absolut_Vodka
 Goldschlager
-Crown Royal
+Crown_Royal
 Cointreau
 Vermouth
 Advocaat
-Absolut Kurant
+Absolut_Kurant
 Beer
 Kool-Aid
-Cherry Heering
-White Creme de Menthe
-Malibu rum
-Vanilla vodka
+Cherry_Heering
+White_Creme_de_Menthe
+Malibu_rum
+Vanilla_vodka
 JÃ¤germeister
-Kiwi liqueur
-Grand Marnier
+Kiwi_liqueur
+Grand_Marnier
 Cachaca
-Peachtree schnapps
-Wild Turkey
-Cranberry vodka
+Peachtree_schnapps
+Wild_Turkey
+Cranberry_vodka
 Corona
-Orange juice
-Yukon Jack
-Chocolate ice-cream
-Coconut rum
-Banana liqueur
-Black Sambuca
-Hot Damn
+Orange_juice
+Yukon_Jack
+Chocolate_ice-cream
+Coconut_rum
+Banana_liqueur
+Black_Sambuca
+Hot_Damn
 Mint
 Campari
 Ice
-Sour mix
+Sour_mix
 Absinthe
 Whisky
-Guinness stout
-Vanilla ice-cream
-Chambord raspberry liqueur
-Jim Beam
-Godiva liqueur
-Fruit punch
-Baileys irish cream
+Guinness_stout
+Vanilla_ice-cream
+Chambord_raspberry_liqueur
+Jim_Beam
+Godiva_liqueur
+Fruit_punch
+Baileys_irish_cream
 Zima
-Blue Curacao
+Blue_Curacao
 Coca-Cola
 Maui
 Frangelico
-Bacardi Limon
-Raspberry vodka
-Green Creme de Menthe
-Lemon peel
+Bacardi_Limon
+Raspberry_vodka
+Green_Creme_de_Menthe
+Lemon_peel
 Prosecco
-White Rum
+White_Rum
 Mezcal
-Green Chartreuse
-Grape Soda
-Hot Chocolate
-Blended Scotch
-Rye whiskey
+Green_Chartreuse
+Grape_Soda
+Hot_Chocolate
+Blended_Scotch
+Rye_whiskey

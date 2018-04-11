@@ -11,4 +11,7 @@ file = open('cocktailKey.csv', 'w+')
 file.write('cocktail, vector\n')
 for index, i in enumerate(cocktailList):
     print(i, index, end='\n')
-    file.write('{}, {}\n'.format(i, index))
+    for ingredient in i:
+        if(ingredient['name'] != None):
+            file.write('{}, '.format(ingredient['name']))
+    file.write('\n')
