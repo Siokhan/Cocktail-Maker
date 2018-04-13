@@ -7,7 +7,7 @@ with open('cocktailList.json') as json_data:
     for cocktail in d:
         cocktailList.append(cocktail['ingredients'])
 
-file = open('cocktailKey.csv', 'w+')
+file = open('cocktailTable.csv', 'w+')
 file.write('cocktail, vector\n')
 for index, i in enumerate(cocktailList):
     print(i, index, end='\n')
