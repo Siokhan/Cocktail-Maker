@@ -1,17 +1,27 @@
 import json
 
 cocktailList = []
+ingredientList = []
+
+def vectorizer(name):
+    for item in ingredientList:
+        if item['name'] == name:
+            return item['index']
+    return None
 
 with open('cocktailList.json') as json_data:
     d = json.load(json_data)
     for cocktail in d:
         cocktailList.append(cocktail['ingredients'])
 
-file = open('cocktailTable.csv', 'w+')
-file.write('cocktail, vector\n')
-for index, i in enumerate(cocktailList):
-    print(i, index, end='\n')
-    for ingredient in i:
+with open('vectorKey.json') as json_data:
+    ingredientList = json.load(json_data)
+
+file = open('cocktailsVector.txt', 'w+')
+cocktailsVector = []
+for i, cocktail in enumerate(cocktailList):
+    for ingredient in cocktail:
         if(ingredient['name'] != None):
-            file.write('{}, '.format(ingredient['name']))
+            print('gucci', ingredient['name'])
+            file.write(str(vectorizer(ingredient['name'])) + ' ')
     file.write('\n')

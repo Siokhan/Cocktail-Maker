@@ -1,0 +1,573 @@
+0 None 151 
+0 22 123 46 None 151 
+1 39 
+2 10 71 None 
+3 80 123 
+0 8 28 24 None 130 
+3 46 34 
+4 41 10 
+5 123 76 None 
+6 4 14 10 
+7 8 54 54 
+8 7 46 
+9 15 43 46 
+10 2 None 151 
+2 33 None None 
+11 33 None None 
+12 8 45 
+13 14 45 
+14 19 96 46 151 
+14 2 None 
+3 25 None 
+15 33 None 
+15 None 
+15 54 
+15 28 None 
+15 112 
+16 15 None 
+7 30 2 
+1 8 46 
+0 7 8 46 None 71 
+2 None None 54 
+17 150 
+2 117 46 151 
+4 2 23 
+6 4 14 23 
+0 8 None 28 24 None 
+11 2 14 31 151 
+18 21 
+4 43 151 
+20 59 46 None None 81 
+21 59 46 None None 54 
+21 144 83 None 
+20 144 28 None 
+22 None 21 123 46 
+2 8 144 23 None 151 
+4 6 None 151 
+2 14 23 None None 
+0 11 8 54 
+13 81 None None 81 None 
+23 68 24 19 71 None 
+24 68 46 19 151 
+19 46 24 71 None 
+2 8 46 34 None 
+24 None 81 11 None 71 
+11 78 24 None None 
+11 81 None 81 None 
+24 54 118 
+13 81 54 None 34 31 
+0 8 28 None 
+2 46 None 10 77 
+17 24 23 151 42 
+0 32 None 
+0 35 81 None None 31 
+25 21 125 
+11 8 46 
+4 43 None 
+0 54 145 
+0 54 None 
+2 None 54 
+6 14 151 
+27 2 23 151 
+11 2 4 31 151 
+7 2 14 34 46 None 
+2 8 
+6 4 23 47 
+15 33 None 
+2 24 46 17 71 None 
+13 None 81 54 81 54 
+0 8 28 24 None 132 
+0 28 130 24 
+0 None 28 24 
+2 11 4 None 
+2 None 54 
+2 31 None None 151 
+2 46 24 34 None 71 
+2 81 None 31 
+2 81 None 68 None 
+2 31 24 130 71 None 
+2 46 24 71 None 
+2 34 None None 49 31 
+28 24 2 23 None 
+2 68 None 151 
+21 15 62 
+6 15 
+21 15 
+2 8 45 34 None 
+21 63 123 
+0 45 46 
+2 8 45 
+6 4 10 None 
+0 13 81 None 31 
+29 None 123 None 71 None 
+30 34 54 
+13 81 None 35 None 31 
+2 155 None 
+19 46 24 None None 71 
+21 8 28 
+19 None 
+19 None 151 
+2 None None 81 None 31 
+6 None 14 151 
+2 None 10 
+4 2 
+31 2 14 None None 151 
+21 0 2 20 81 145 
+3 None 
+0 None 8 None None 
+2 14 8 10 None 
+2 14 None 
+19 3 62 
+11 0 19 81 None 31 
+0 39 23 
+13 81 24 37 81 None 
+32 2 123 None 
+33 15 8 21 None 
+23 2 
+2 34 None None 
+2 33 
+34 150 
+35 11 
+35 None None 78 None 
+0 11 81 None 
+0 41 54 
+36 None 41 
+37 34 None 
+14 2 None 
+3 25 None None 
+2 None 78 145 
+2 81 None 78 31 
+24 None 81 3 None 71 
+38 None 81 
+0 48 None None 
+0 101 None 23 68 None 
+0 123 
+0 46 24 71 None 
+38 None 151 68 
+6 None 151 
+39 2 None 
+40 24 None 68 19 151 
+11 15 None 
+6 11 None 71 130 
+6 54 None 81 None 
+21 123 
+0 None 34 81 
+41 None 78 48 None 
+41 None None 78 None 
+42 105 46 
+11 8 81 
+32 34 2 None 31 None 
+43 14 10 
+11 None 
+7 123 None 
+5 0 28 None 49 
+5 20 8 46 49 None 
+20 46 34 None None 
+20 81 None 81 None 
+6 None 123 
+2 46 24 None None 71 
+14 2 None 23 None 
+14 2 None None 10 None 
+7 123 10 
+0 None 46 
+14 98 31 
+0 4 81 None None 
+3 32 
+2 4 11 
+21 46 79 None 71 
+21 None 
+8 2 45 
+13 81 None None 81 
+6 None 
+21 18 None 
+34 123 45 
+34 123 45 None 
+44 None 
+45 None 46 34 
+46 123 47 None 
+47 46 None 
+48 123 47 None 
+49 None 51 48 None 
+49 None 44 
+50 48 None 
+44 49 24 81 None None 132 
+51 None 
+51 None 123 None 132 
+48 50 None 
+51 68 None None 130 
+51 68 None None 
+51 132 24 54 None 
+51 68 24 None 46 
+52 51 24 68 
+53 68 81 24 None 
+54 24 None None 
+28 2 None 
+55 None 
+56 None 
+57 81 None 
+58 None 
+52 71 
+53 None 
+53 81 68 
+49 None 68 
+48 None None 
+59 46 None 
+51 None 132 
+60 24 None 68 48 
+48 61 None 78 
+61 48 68 
+62 48 None None 61 None 
+61 None None None None 
+24 60 None 68 48 None 
+60 24 None 48 
+48 61 None 69 None 
+48 61 None 77 
+63 86 81 24 101 
+21 None 76 39 
+21 28 None 
+64 46 63 None 
+65 100 2 117 
+15 115 25 48 
+66 None 
+67 None 54 132 
+66 48 24 
+66 24 68 48 
+25 66 
+68 16 53 None None None None 24 48 
+69 None 60 
+66 None 
+66 None None 24 None 132 
+66 24 None None 
+16 68 None 132 130 
+21 24 None None None 
+24 68 None None None 68 11 None None None None 
+70 None None None None None None 21 24 68 None None 
+71 21 24 
+66 None 24 21 68 
+68 24 66 None 21 None 
+72 24 0 
+24 68 None None None 
+6 None None None 50 
+73 None 70 None 151 
+68 None 66 38 None 
+68 53 None 46 None 24 45 
+74 None 83 123 None None None None 
+16 159 37 38 11 None 123 46 
+75 None 123 110 
+76 24 45 None None 
+77 24 48 0 19 None None None None 24 None 
+78 24 None 48 None 
+78 24 None 48 None 38 None 
+37 68 24 None None 151 
+79 None None None 
+68 24 None None 151 37 11 
+37 24 123 46 None None 
+37 24 68 None 71 54 81 None 
+37 24 81 71 None 11 None 
+80 123 None None None 28 
+81 24 49 68 
+45 None 123 81 56 17 
+37 None 132 
+37 81 123 71 45 
+20 8 28 None 
+34 25 100 
+20 None 
+82 None None 
+21 None 76 123 
+83 21 144 8 24 132 
+84 93 None 
+25 100 147 66 None 
+21 15 43 8 76 
+38 21 2 144 133 None 
+85 129 
+21 54 None None 132 
+25 91 100 
+85 109 83 132 
+15 21 101 None 109 
+86 117 46 None 
+54 24 None 132 
+87 46 24 132 
+88 103 
+21 28 None 
+89 136 
+90 48 15 
+25 92 117 
+21 76 39 
+84 93 
+91 115 103 
+92 None 107 
+21 9 None None None 
+0 54 24 130 None 
+93 84 144 
+21 25 100 137 None 
+15 100 42 
+94 None 21 
+21 None 46 
+64 145 
+20 123 34 
+21 100 25 
+92 None 
+95 None 
+15 133 
+3 54 145 132 
+96 None 
+97 25 100 
+25 100 103 62 66 
+98 17 
+4 19 None 132 None None 
+99 15 
+100 147 48 
+99 73 139 
+101 None None 
+102 2 None 
+2 95 46 
+29 66 24 None 
+33 21 
+103 None 48 
+15 38 110 
+21 None 144 94 
+104 15 76 
+18 0 132 48 
+86 None 94 None 81 
+105 21 54 76 
+106 44 
+21 14 None 
+66 48 8 11 
+107 83 81 132 
+66 138 60 None 
+25 100 147 
+21 34 123 
+25 63 None 
+15 133 123 
+100 140 25 None 48 
+108 91 76 94 
+83 21 38 None 
+102 105 81 
+86 28 132 None 
+86 None 132 None 
+109 15 123 
+110 21 
+108 16 24 
+25 92 100 
+111 None 123 132 
+100 137 None 
+100 25 92 
+112 9 21 None 
+76 None 91 None 
+15 123 34 
+102 None 
+67 34 123 133 
+113 0 101 None 105 48 None 137 
+105 46 132 81 
+114 117 123 
+20 None 
+67 None 
+101 120 
+21 None 123 132 None 
+25 101 34 
+115 92 21 
+21 127 123 None 
+116 None 132 
+29 100 66 
+100 112 None 
+117 66 
+119 None 
+21 None 68 
+38 None 141 123 132 
+120 15 45 
+102 76 None 132 
+121 None None 44 132 
+104 None 138 76 
+122 148 
+123 44 45 132 
+123 39 44 None 
+124 32 9 None 
+21 None 123 
+21 None 34 123 
+125 11 15 
+126 15 123 34 
+113 None 76 
+101 113 45 123 34 None 
+115 None 
+21 None 44 46 83 
+101 120 
+2 0 20 8 21 145 None 23 81 
+92 100 112 
+21 8 123 
+3 0 21 123 
+108 117 138 91 113 15 76 45 
+21 None 
+66 75 
+84 20 
+113 None 144 None 
+25 48 137 
+66 99 15 None 
+66 None 24 
+2 131 4 
+21 83 68 24 
+102 None None 76 45 
+127 33 125 50 None None None None 
+25 88 15 101 None 
+21 None None 49 None 
+109 None 83 145 95 98 81 
+66 None 
+128 123 
+84 93 None 
+91 143 
+129 16 
+38 66 68 None 
+130 46 3 None None 
+7 17 21 95 123 
+100 117 25 
+92 None 132 
+131 4 151 None 
+132 50 32 21 48 
+63 None 132 
+109 95 
+9 123 None 
+84 131 
+15 None 66 
+133 15 20 123 
+86 None None 123 
+86 123 8 None 
+132 20 None 28 
+132 21 80 None 151 
+2 21 34 28 24 47 None 
+134 20 34 
+15 None 91 45 
+113 96 123 45 76 
+135 100 66 
+33 144 0 
+83 68 21 
+132 None None 145 
+20 74 
+3 71 None 76 
+99 91 133 
+38 21 20 8 None 132 None None 
+21 91 None 
+136 None 
+15 9 132 133 
+104 25 None 
+137 145 19 
+25 92 144 100 
+138 21 None 
+21 None 123 76 
+25 11 66 
+44 113 None 
+21 65 
+21 None None 132 None 
+38 21 20 2 8 138 91 113 
+139 99 120 
+9 8 54 133 
+100 19 21 123 
+140 48 
+141 94 20 101 
+75 21 None 123 76 
+123 38 21 None 132 
+21 138 119 76 
+3 21 8 20 None None 
+15 81 132 None 
+101 110 
+21 25 145 136 
+115 103 
+143 138 
+122 148 
+24 None 66 None 68 21 
+103 115 None 101 
+122 0 
+21 2 None 132 
+21 113 None 123 45 None 34 132 None 
+25 100 
+15 117 9 
+144 None 21 133 95 
+145 46 
+2 76 34 
+146 None 132 
+75 21 None None 46 38 
+147 104 
+148 145 
+37 None None 123 
+149 None 132 
+8 15 93 132 
+2 20 21 None None None None None 
+118 None None 17 
+54 None None None 132 
+26 54 118 
+142 138 47 24 
+19 None 24 68 
+2 None None 
+21 14 None 81 None 
+87 None None None None None None 
+0 28 47 34 
+11 0 8 46 
+2 None 46 10 None 
+2 34 81 None 
+None None 130 
+0 45 None 34 None 
+2 None 123 34 
+2 None None 
+3 None 123 45 
+11 35 None 
+11 112 
+2 None None 
+17 None 
+86 28 105 76 
+2 24 46 17 71 None 
+42 15 
+63 None None None 
+150 33 None 
+38 None None None 
+151 11 None 23 
+98 17 
+21 20 0 2 145 151 
+17 123 
+130 19 None 68 
+0 None None 
+14 2 7 46 34 None 
+38 63 None None 152 
+2 None 47 None 
+None None 
+21 25 47 
+21 None None 
+21 98 None None 
+152 131 None 
+20 None None 
+20 None None None None None 
+2 21 None 
+153 63 None None 
+None None 48 21 
+None 48 140 None None None None 
+2 117 None 34 
+2 4 None None 
+21 None 17 
+2 34 62 48 None 
+2 42 98 None 
+4 14 None 
+2 106 
+38 14 42 2 None None 68 
+2 34 None None 54 
+2 90 15 None None 
+106 None None 83 None 
+38 None 101 None 34 None None 
+2 98 None None 54 53 
+2 144 None None 
+154 90 18 
+155 None None 
+2 None 4 None 
+2 None None None None 
+2 None None None 134 
+131 4 159 None 
+21 None 
+156 20 
+None 155 2 4 
+2 None None 54 
+2 4 None None 
+25 None None None 103 
+38 None 127 34 None None None 
+38 None None 144 None 132 
+2 None None None 54 53 130 
+157 155 111 
+None 15 None 
+159 131 14 
+None 4 155 
+158 None None None None 
