@@ -6,7 +6,7 @@ ingredientList = []
 def vectorizer(name):
     for item in ingredientList:
         if item['name'] == name:
-            return item['index']
+            return item['hash']
     return None
 
 with open('cocktailList.json') as json_data:

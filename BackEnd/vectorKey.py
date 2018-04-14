@@ -10,7 +10,7 @@ with open('cocktailList.json') as json_data:
         cocktailList.append(cocktail['ingredients'])
 
 def hash(str):
-    return hashlib.sha256(str.encode()).hexdigest()
+    return hashlib.md5(str.encode()).hexdigest()
 
 setName = set()
 for i, cocktail in enumerate(cocktailList):
