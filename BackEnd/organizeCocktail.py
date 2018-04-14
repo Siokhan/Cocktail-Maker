@@ -18,10 +18,12 @@ with open('vectorKey.json') as json_data:
     ingredientList = json.load(json_data)
 
 file = open('cocktailsVector.txt', 'w+')
-cocktailsVector = []
+file2 = open('cocktails.txt', 'w+')
 for i, cocktail in enumerate(cocktailList):
     for ingredient in cocktail:
         if(ingredient['name'] != None):
             print('gucci', ingredient['name'])
             file.write(str(vectorizer(ingredient['name'])) + ' ')
+            file2.write(ingredient['name'] + ' ')
     file.write('\n')
+    file2.write('\n')

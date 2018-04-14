@@ -1,207 +1,207 @@
-Light_rum Ginger_beer Lemon_peel 
-Light_rum Añejo_rum Orange_juice Lemon_juice Ginger_ale Lemon_peel 
-Applejack Grapefruit_juice 
-Gin Orange_bitters Orange Cherry 
-Dark_rum Peach_nectar Orange_juice 
-Light_rum Triple_sec Lime_juice Sugar Egg_white Mint 
-Dark_rum Lemon_juice Grenadine 
-Sweet_Vermouth Sherry Orange_bitters 
-Strawberry_schnapps Orange_juice Cranberry_juice Club_soda 
-Scotch Sweet_Vermouth Dry_Vermouth Orange_bitters 
-Apricot_brandy Triple_sec Lime Lime 
-Triple_sec Apricot_brandy Lemon_juice 
-Southern_Comfort Amaretto Sloe_gin Lemon_juice 
-Orange_bitters Gin Yellow_Chartreuse Lemon_peel 
-Gin Creme_de_Cacao Light_cream Nutmeg 
-Brandy Creme_de_Cacao Light_cream Nutmeg 
-Lemon_vodka Triple_sec Pineapple_juice 
-Blended_whiskey Dry_Vermouth Pineapple_juice 
-Dry_Vermouth Bourbon Blackberry_brandy Lemon_juice Lemon_peel 
-Dry_Vermouth Gin Kummel 
-Dark_rum Kahlua Egg_white 
-Amaretto Creme_de_Cacao Light_cream 
-Amaretto Light_cream 
+Light rum Ginger beer Lemon peel 
+Light rum Añejo rum Orange juice Lemon juice Ginger ale Lemon peel 
+Applejack Grapefruit juice 
+Gin Orange bitters Orange Cherry 
+Dark rum Peach nectar Orange juice 
+Light rum Triple sec Lime juice Sugar Egg white Mint 
+Dark rum Lemon juice Grenadine 
+Sweet Vermouth Sherry Orange bitters 
+Strawberry schnapps Orange juice Cranberry juice Club soda 
+Scotch Sweet Vermouth Dry Vermouth Orange bitters 
+Apricot brandy Triple sec Lime Lime 
+Triple sec Apricot brandy Lemon juice 
+Southern Comfort Amaretto Sloe gin Lemon juice 
+Orange bitters Gin Yellow Chartreuse Lemon peel 
+Gin Creme de Cacao Light cream Nutmeg 
+Brandy Creme de Cacao Light cream Nutmeg 
+Lemon vodka Triple sec Pineapple juice 
+Blended whiskey Dry Vermouth Pineapple juice 
+Dry Vermouth Bourbon Blackberry brandy Lemon juice Lemon peel 
+Dry Vermouth Gin Kummel 
+Dark rum Kahlua Egg white 
+Amaretto Creme de Cacao Light cream 
+Amaretto Light cream 
 Amaretto Lime 
-Amaretto Lime_juice Club_soda 
-Amaretto White_Creme_de_Menthe 
-Tea Amaretto Whipped_cream 
-Apricot_brandy Apple_brandy Gin 
-Applejack Triple_sec Lemon_juice 
-Light_rum Apricot_brandy Triple_sec Lemon_juice Egg_white Orange 
+Amaretto Lime juice Club soda 
+Amaretto White Creme de Menthe 
+Tea Amaretto Whipped cream 
+Apricot brandy Apple brandy Gin 
+Applejack Triple sec Lemon juice 
+Light rum Apricot brandy Triple sec Lemon juice Egg white Orange 
 Gin Wine Benedictine Lime 
-Champagne Green_Creme_de_Menthe 
-Gin Grand_Marnier Lemon_juice Lemon_peel 
-Sweet_Vermouth Gin Bitters 
-Scotch Sweet_Vermouth Dry_Vermouth Bitters 
-Light_rum Triple_sec Banana Lime_juice Sugar Cherry 
-Brandy Gin Dry_Vermouth Carbonated_water Lemon_peel 
-Coffee_liqueur Vodka 
-Sweet_Vermouth Sloe_gin Lemon_peel 
-Tequila Tomato_juice Lemon_juice Tabasco_sauce Celery_salt Lemon 
-Vodka Tomato_juice Lemon_juice Worcestershire_sauce Tabasco_sauce Lime 
-Vodka Blue_Curacao Lemonade Cherry 
-Tequila Blue_Curacao Lime_juice Salt 
-Añejo_rum Tia_maria Vodka Orange_juice Lemon_juice 
-Gin Triple_sec Blue_Curacao Bitters Maraschino_cherry Lemon_peel 
-Sweet_Vermouth Scotch Benedictine Lemon_peel 
-Gin Dry_Vermouth Bitters Maraschino_liqueur Maraschino_cherry 
-Light_rum Brandy Triple_sec Lime 
-Blended_whiskey Lemon Powdered_sugar Egg_white Lemon Cherry 
-Bitters Water Sugar Bourbon Orange Maraschino_cherry 
-Sugar Water Lemon_juice Bourbon Lemon_peel 
-Bourbon Lemon_juice Sugar Orange Maraschino_cherry 
-Gin Triple_sec Lemon_juice Grenadine Egg_white 
-Sugar Club_soda Lemon Brandy Maraschino_cherry Orange 
-Brandy Egg Sugar Light_cream Nutmeg 
-Brandy Lemon Powdered_sugar Lemon Cherry 
+Champagne Green Creme de Menthe 
+Gin Grand Marnier Lemon juice Lemon peel 
+Sweet Vermouth Gin Bitters 
+Scotch Sweet Vermouth Dry Vermouth Bitters 
+Light rum Triple sec Banana Lime juice Sugar Cherry 
+Brandy Gin Dry Vermouth Carbonated water Lemon peel 
+Coffee liqueur Vodka 
+Sweet Vermouth Sloe gin Lemon peel 
+Tequila Tomato juice Lemon juice Tabasco sauce Celery salt Lemon 
+Vodka Tomato juice Lemon juice Worcestershire sauce Tabasco sauce Lime 
+Vodka Blue Curacao Lemonade Cherry 
+Tequila Blue Curacao Lime juice Salt 
+Añejo rum Tia maria Vodka Orange juice Lemon juice 
+Gin Triple sec Blue Curacao Bitters Maraschino cherry Lemon peel 
+Sweet Vermouth Scotch Benedictine Lemon peel 
+Gin Dry Vermouth Bitters Maraschino liqueur Maraschino cherry 
+Light rum Brandy Triple sec Lime 
+Blended whiskey Lemon Powdered sugar Egg white Lemon Cherry 
+Bitters Water Sugar Bourbon Orange Maraschino cherry 
+Sugar Water Lemon juice Bourbon Lemon peel 
+Bourbon Lemon juice Sugar Orange Maraschino cherry 
+Gin Triple sec Lemon juice Grenadine Egg white 
+Sugar Club soda Lemon Brandy Maraschino cherry Orange 
+Brandy Egg Sugar Light cream Nutmeg 
+Brandy Lemon Powdered sugar Lemon Cherry 
 Sugar Lime Cachaca 
-Blended_whiskey Lemon Lime Powdered_sugar Grenadine Carbonated_water 
-Light_rum Triple_sec Lime_juice Maraschino_liqueur 
-Gin Lemon_juice Maraschino_liqueur Orange_bitters Egg_yolk 
-Champagne Sugar Bitters Lemon_peel Cognac 
-Light_rum Cherry_brandy Light_cream 
-Light_rum Port Lemon Powdered_sugar Egg_white Carbonated_water 
-Kahlua Vodka Chocolate_ice-cream 
-Brandy Triple_sec Lemon_juice 
-Sweet_Vermouth Sloe_gin Wine 
-Light_rum Lime Coca-Cola 
-Light_rum Lime Powdered_sugar 
-Gin Ginger_ale Lime 
-Scotch Dry_Vermouth Lemon_peel 
-Dubonnet_Rouge Gin Bitters Lemon_peel 
-Brandy Gin Sweet_Vermouth Carbonated_water Lemon_peel 
-Apricot_brandy Gin Dry_Vermouth Grenadine Lemon_juice Cherry 
-Gin Triple_sec 
-Scotch Sweet_Vermouth Bitters Sugar_syrup 
-Amaretto Creme_de_Cacao Light_cream 
-Gin Sugar Lemon_juice Champagne Orange Maraschino_cherry 
-Blended_whiskey Benedictine Lemon Lime Lemon Lime 
-Light_rum Triple_sec Lime_juice Sugar Cherry Ice 
-Light_rum Lime_juice Mint Sugar 
-Light_rum Pineapple Lime_juice Sugar 
-Gin Brandy Sweet_Vermouth Club_soda 
-Gin Tonic_water Lime 
-Gin Carbonated_water Powdered_sugar Orange_spiral Lemon_peel 
-Gin Lemon_juice Sugar Grenadine Maraschino_cherry Orange 
-Gin Lemon Powdered_sugar Carbonated_water 
-Gin Lemon Powdered_sugar Water Orange_peel 
-Gin Carbonated_water Sugar Mint Orange Cherry 
-Gin Lemon_juice Sugar Orange Maraschino_cherry 
-Gin Grenadine Powdered_sugar Pineapple Strawberries Carbonated_water 
-Lime_juice Sugar Gin Bitters Club_soda 
-Gin Water Powdered_sugar Lemon_peel 
-Vodka Amaretto Heavy_cream 
+Blended whiskey Lemon Lime Powdered sugar Grenadine Carbonated water 
+Light rum Triple sec Lime juice Maraschino liqueur 
+Gin Lemon juice Maraschino liqueur Orange bitters Egg yolk 
+Champagne Sugar Bitters Lemon peel Cognac 
+Light rum Cherry brandy Light cream 
+Light rum Port Lemon Powdered sugar Egg white Carbonated water 
+Kahlua Vodka Chocolate ice-cream 
+Brandy Triple sec Lemon juice 
+Sweet Vermouth Sloe gin Wine 
+Light rum Lime Coca-Cola 
+Light rum Lime Powdered sugar 
+Gin Ginger ale Lime 
+Scotch Dry Vermouth Lemon peel 
+Dubonnet Rouge Gin Bitters Lemon peel 
+Brandy Gin Sweet Vermouth Carbonated water Lemon peel 
+Apricot brandy Gin Dry Vermouth Grenadine Lemon juice Cherry 
+Gin Triple sec 
+Scotch Sweet Vermouth Bitters Sugar syrup 
+Amaretto Creme de Cacao Light cream 
+Gin Sugar Lemon juice Champagne Orange Maraschino cherry 
+Blended whiskey Benedictine Lemon Lime Lemon Lime 
+Light rum Triple sec Lime juice Sugar Cherry Ice 
+Light rum Lime juice Mint Sugar 
+Light rum Pineapple Lime juice Sugar 
+Gin Brandy Sweet Vermouth Club soda 
+Gin Tonic water Lime 
+Gin Carbonated water Powdered sugar Orange spiral Lemon peel 
+Gin Lemon juice Sugar Grenadine Maraschino cherry Orange 
+Gin Lemon Powdered sugar Carbonated water 
+Gin Lemon Powdered sugar Water Orange peel 
+Gin Carbonated water Sugar Mint Orange Cherry 
+Gin Lemon juice Sugar Orange Maraschino cherry 
+Gin Grenadine Powdered sugar Pineapple Strawberries Carbonated water 
+Lime juice Sugar Gin Bitters Club soda 
+Gin Water Powdered sugar Lemon peel 
+Vodka Amaretto Heavy cream 
 Scotch Amaretto 
 Vodka Amaretto 
-Gin Triple_sec Pineapple_juice Grenadine Pineapple 
-Vodka Galliano Orange_juice 
-Light_rum Pineapple_juice Lemon_juice 
-Gin Triple_sec Pineapple_juice 
-Scotch Sweet_Vermouth Orange_bitters Olive 
-Light_rum Blended_whiskey Lemon Powdered_sugar Carbonated_water 
-Irish_whiskey Peach_brandy Orange_juice Sweet_and_sour Orange Cherry 
-Apple_brandy Grenadine Lime 
-Blended_whiskey Lemon Powdered_sugar Port Egg_white Carbonated_water 
-Gin Green_Chartreuse Yellow_Chartreuse 
-Bourbon Lemon_juice Sugar Club_soda Maraschino_cherry Orange 
-Vodka Triple_sec Lime_juice 
+Gin Triple sec Pineapple juice Grenadine Pineapple 
+Vodka Galliano Orange juice 
+Light rum Pineapple juice Lemon juice 
+Gin Triple sec Pineapple juice 
+Scotch Sweet Vermouth Orange bitters Olive 
+Light rum Blended whiskey Lemon Powdered sugar Carbonated water 
+Irish whiskey Peach brandy Orange juice Sweet and sour Orange Cherry 
+Apple brandy Grenadine Lime 
+Blended whiskey Lemon Powdered sugar Port Egg white Carbonated water 
+Gin Green Chartreuse Yellow Chartreuse 
+Bourbon Lemon juice Sugar Club soda Maraschino cherry Orange 
+Vodka Triple sec Lime juice 
 Bourbon Benedictine 
-Bourbon Benedictine Lemon_peel 
-Gin Light_cream Powdered_sugar Lemon Egg_white Carbonated_water 
-Scotch Drambuie Dry_Vermouth Lemon_peel 
-Gin Maraschino_liqueur Orange_bitters 
-Sweet_Vermouth Gin 
-Carbonated_water Gin Dry_Vermouth Powdered_sugar Orange_spiral Lemon_peel 
-Vodka Light_rum Gin Tequila Lemon Coca-Cola 
-Dark_rum Tia_maria 
-Light_rum Orgeat_syrup Triple_sec Sweet_and_sour Cherry 
-Gin Dry_Vermouth Triple_sec Orange_bitters Cherry 
-Gin Dry_Vermouth Olive 
-Bourbon Dark_rum Heavy_cream 
-Brandy Light_rum Bourbon Lemon Powdered_sugar Carbonated_water 
-Light_rum Grapefruit_juice Bitters 
-Blended_whiskey Lemon Sugar Red_wine Lemon Cherry 
-Cherry_brandy Gin Orange_juice Ginger_ale 
-Creme_de_Cacao Amaretto Triple_sec Vodka Light_cream 
+Bourbon Benedictine Lemon peel 
+Gin Light cream Powdered sugar Lemon Egg white Carbonated water 
+Scotch Drambuie Dry Vermouth Lemon peel 
+Gin Maraschino liqueur Orange bitters 
+Sweet Vermouth Gin 
+Carbonated water Gin Dry Vermouth Powdered sugar Orange spiral Lemon peel 
+Vodka Light rum Gin Tequila Lemon Coca-Cola 
+Dark rum Tia maria 
+Light rum Orgeat syrup Triple sec Sweet and sour Cherry 
+Gin Dry Vermouth Triple sec Orange bitters Cherry 
+Gin Dry Vermouth Olive 
+Bourbon Dark rum Heavy cream 
+Brandy Light rum Bourbon Lemon Powdered sugar Carbonated water 
+Light rum Grapefruit juice Bitters 
+Blended whiskey Lemon Sugar Red wine Lemon Cherry 
+Cherry brandy Gin Orange juice Ginger ale 
+Creme de Cacao Amaretto Triple sec Vodka Light cream 
 Bitters Gin 
-Gin Grenadine Light_cream Egg_white 
-Gin Creme_de_Cacao 
-Grenadine Green_Creme_de_Menthe 
+Gin Grenadine Light cream Egg white 
+Gin Creme de Cacao 
+Grenadine Green Creme de Menthe 
 Port Brandy 
-Port Light_cream Powdered_sugar Egg Nutmeg 
-Light_rum Brandy Lemon Raspberry_syrup 
-Light_rum Sherry Lime 
-Coffee_brandy Lime_vodka Sherry 
-Red_wine Grenadine Lemon-lime_soda 
-Dry_Vermouth Gin Benedictine 
-Dark_rum Kahlua Light_cream Nutmeg 
-Gin Sweet_and_sour Egg Coca-Cola 
-Gin Lemon Powdered_sugar Egg Carbonated_water 
-Sugar Club_soda Lemon Dark_rum Maraschino_cherry Orange 
-Rum Lemon-lime_soda Lemon 
-Light_rum Milk Powdered_sugar Nutmeg 
-Light_rum 151_proof_rum Powdered_sugar Bitters Water Lime_peel 
-Light_rum Orange_juice 
-Light_rum Lemon_juice Sugar Orange Maraschino_cherry 
-Rum Powdered_sugar Lemon_peel Water 
-Scotch Drambuie Lemon_peel 
-Grapefruit_juice Gin Salt 
-Ricard Sugar Peychaud_bitters Water Bourbon Lemon_peel 
-Brandy Amaretto Light_cream 
+Port Light cream Powdered sugar Egg Nutmeg 
+Light rum Brandy Lemon Raspberry syrup 
+Light rum Sherry Lime 
+Coffee brandy Lime vodka Sherry 
+Red wine Grenadine Lemon-lime soda 
+Dry Vermouth Gin Benedictine 
+Dark rum Kahlua Light cream Nutmeg 
+Gin Sweet and sour Egg Coca-Cola 
+Gin Lemon Powdered sugar Egg Carbonated water 
+Sugar Club soda Lemon Dark rum Maraschino cherry Orange 
+Rum Lemon-lime soda Lemon 
+Light rum Milk Powdered sugar Nutmeg 
+Light rum 151 proof rum Powdered sugar Bitters Water Lime peel 
+Light rum Orange juice 
+Light rum Lemon juice Sugar Orange Maraschino cherry 
+Rum Powdered sugar Lemon peel Water 
+Scotch Drambuie Lemon peel 
+Grapefruit juice Gin Salt 
+Ricard Sugar Peychaud bitters Water Bourbon Lemon peel 
+Brandy Amaretto Light cream 
 Scotch Brandy Curacao Orange Mint 
-Scotch Lime Powdered_sugar Lemon Cherry 
-Vodka Orange_juice 
-Light_rum Anisette Grenadine Lemon 
-Sherry Powdered_sugar Egg Milk Nutmeg 
-Sherry Light_cream Powdered_sugar Egg Nutmeg 
-Cognac Cointreau Lemon_juice 
-Brandy Triple_sec Lemon 
-Cherry_brandy Grenadine Gin Sweet_and_sour Carbonated_water Cherry 
-Sloe_gin Dry_Vermouth Orange_bitters 
+Scotch Lime Powdered sugar Lemon Cherry 
+Vodka Orange juice 
+Light rum Anisette Grenadine Lemon 
+Sherry Powdered sugar Egg Milk Nutmeg 
+Sherry Light cream Powdered sugar Egg Nutmeg 
+Cognac Cointreau Lemon juice 
+Brandy Triple sec Lemon 
+Cherry brandy Grenadine Gin Sweet and sour Carbonated water Cherry 
+Sloe gin Dry Vermouth Orange bitters 
 Brandy Anisette 
-Apricot_brandy Orange_juice Sweet_and_sour 
-Strawberry_schnapps Light_rum Lime_juice Powdered_sugar Strawberries 
-Strawberry_schnapps Tequila Triple_sec Lemon_juice Strawberries Salt 
-Tequila Lemon_juice Grenadine Egg_white Ginger_ale 
-Tequila Lemon Powdered_sugar Lemon Cherry 
-Scotch Wine Orange_juice 
-Gin Lemon_juice Sugar Club_soda Maraschino_cherry Orange 
-Dry_Vermouth Gin Anis Bitters Orange_peel 
-Dry_Vermouth Gin Maraschino_liqueur Anis Orange_bitters Cherry 
-Apricot_brandy Orange_juice Orange_bitters 
-Light_rum Maple_syrup Lemon_juice 
-Dry_Vermouth Creme_de_Cassis Carbonated_water 
-Light_rum Sweet_Vermouth Lemon Powdered_sugar Egg_white 
-Dark_rum Cherry_brandy 
-Gin Sweet_Vermouth Brandy 
-Vodka Lemon_juice Grape_juice Powdered_sugar Orange 
-Vodka Tonic_water 
-Triple_sec Gin Pineapple_juice 
-Blended_whiskey Lemon Powdered_sugar Cherry Lemon 
+Apricot brandy Orange juice Sweet and sour 
+Strawberry schnapps Light rum Lime juice Powdered sugar Strawberries 
+Strawberry schnapps Tequila Triple sec Lemon juice Strawberries Salt 
+Tequila Lemon juice Grenadine Egg white Ginger ale 
+Tequila Lemon Powdered sugar Lemon Cherry 
+Scotch Wine Orange juice 
+Gin Lemon juice Sugar Club soda Maraschino cherry Orange 
+Dry Vermouth Gin Anis Bitters Orange peel 
+Dry Vermouth Gin Maraschino liqueur Anis Orange bitters Cherry 
+Apricot brandy Orange juice Orange bitters 
+Light rum Maple syrup Lemon juice 
+Dry Vermouth Creme de Cassis Carbonated water 
+Light rum Sweet Vermouth Lemon Powdered sugar Egg white 
+Dark rum Cherry brandy 
+Gin Sweet Vermouth Brandy 
+Vodka Lemon juice Grape juice Powdered sugar Orange 
+Vodka Tonic water 
+Triple sec Gin Pineapple juice 
+Blended whiskey Lemon Powdered sugar Cherry Lemon 
 Scotch Wine 
-Vodka Coffee_liqueur Light_cream 
-Grenadine Orange_juice Pineapple_juice 
-Grenadine Orange_juice Pineapple_juice Cream 
-Apple_juice Carrot 
-Pineapple_juice Passion_fruit_juice Lemon_juice Grenadine 
-Lemon_juice Orange_juice Sugar_syrup Soda_water 
-Sugar_syrup Lemon_juice Ginger_ale 
-Milk Orange_juice Sugar_syrup Banana 
+Vodka Coffee liqueur Light cream 
+Grenadine Orange juice Pineapple juice 
+Grenadine Orange juice Pineapple juice Cream 
+Apple juice Carrot 
+Pineapple juice Passion fruit juice Lemon juice Grenadine 
+Lemon juice Orange juice Sugar syrup Soda water 
+Sugar syrup Lemon juice Ginger ale 
+Milk Orange juice Sugar syrup Banana 
 Strawberries Banana Yoghurt Milk Honey 
-Strawberries Banana Apple_juice 
-Chocolate_syrup Milk Soda_water 
-Apple_juice Strawberries Sugar Lemon Apple Soda_water Ice 
-Yoghurt Fruit_juice 
-Yoghurt Banana Orange_juice Fruit Ice 
-Milk Chocolate_syrup Mint_syrup 
-Yoghurt Water Cumin_seed Salt Mint 
+Strawberries Banana Apple juice 
+Chocolate syrup Milk Soda water 
+Apple juice Strawberries Sugar Lemon Apple Soda water Ice 
+Yoghurt Fruit juice 
+Yoghurt Banana Orange juice Fruit Ice 
+Milk Chocolate syrup Mint syrup 
+Yoghurt Water Cumin seed Salt Mint 
 Yoghurt Water Salt Asafoetida 
 Yoghurt Ice Sugar Lime Salt 
-Yoghurt Water Sugar Salt Lemon_juice 
+Yoghurt Water Sugar Salt Lemon juice 
 Mango Yoghurt Sugar Water 
-Ginger Water Lemon Sugar Cayenne_pepper 
-Lime Sugar Soda_water Lime_peel 
-Lime_juice Gin Aperol 
+Ginger Water Lemon Sugar Cayenne pepper 
+Lime Sugar Soda water Lime peel 
+Lime juice Gin Aperol 
 Cantaloupe Banana 
 Berries Apple 
 Grapes Lemon Pineapple 
@@ -211,363 +211,363 @@ Ginger Pineapple
 Ginger Lemon Water 
 Strawberries Honey Water 
 Milk Banana Honey 
-Tomato_juice Lemon_juice Celery_salt 
+Tomato juice Lemon juice Celery salt 
 Yoghurt Fruit Ice 
-Cocoa_powder Sugar Cornstarch Water Milk 
+Cocoa powder Sugar Cornstarch Water Milk 
 Milk Chocolate Cinnamon Egg 
 Chocolate Milk Water 
-Heavy_cream Milk Cinnamon Vanilla Chocolate Whipped_cream 
-Chocolate Butter Vanilla_extract Half-and-half Marshmallows 
-Sugar Cocoa_powder Salt Water Milk Vanilla_extract 
-Cocoa_powder Sugar Vanilla_extract Milk 
-Milk Chocolate Orange_peel Espresso Nutmeg 
-Milk Chocolate Cinnamon Egg_yolk 
-Galliano Absolut_Citron Lemon Sugar 151_proof_rum 
-Vodka Peach_schnapps Cranberry_juice Grapefruit_juice 
-Vodka Lime_juice Soda_water 
-Peach_Vodka Lemon_juice Galliano Sirup_of_roses 
-Ouzo Bailey's_irish_cream Gin Grand_Marnier 
+Heavy cream Milk Cinnamon Vanilla Chocolate Whipped cream 
+Chocolate Butter Vanilla extract Half-and-half Marshmallows 
+Sugar Cocoa powder Salt Water Milk Vanilla extract 
+Cocoa powder Sugar Vanilla extract Milk 
+Milk Chocolate Orange peel Espresso Nutmeg 
+Milk Chocolate Cinnamon Egg yolk 
+Galliano Absolut Citron Lemon Sugar 151 proof rum 
+Vodka Peach schnapps Cranberry juice Grapefruit juice 
+Vodka Lime juice Soda water 
+Peach Vodka Lemon juice Galliano Sirup of roses 
+Ouzo Bailey's irish cream Gin Grand Marnier 
 Amaretto Jägermeister Kahlua Milk 
-Coffee Grain_alcohol 
-Spiced_rum Ginger_ale Lime Ice 
+Coffee Grain alcohol 
+Spiced rum Ginger ale Lime Ice 
 Coffee Milk Sugar 
 Coffee Sugar Water Milk 
 Kahlua Coffee 
-Water Tea Ginger Cardamom Cloves Cinnamon Black_pepper Sugar Milk 
-Espresso Honey Cocoa_powder 
+Water Tea Ginger Cardamom Cloves Cinnamon Black pepper Sugar Milk 
+Espresso Honey Cocoa powder 
 Coffee Cinnamon 
-Coffee Coriander Cardamom Sugar Whipping_cream Ice 
+Coffee Coriander Cardamom Sugar Whipping cream Ice 
 Coffee Sugar Cream Cardamom 
-Tea Water Condensed_milk Ice Mint 
-Vodka Sugar Anise Licorice_root Wormwood 
-Sugar Water Apricot Almond_flavoring Grain_alcohol Water Brandy Food_coloring Food_coloring Food_coloring Glycerine 
-Angelica_root Almond Allspice Cinnamon Anise Coriander Marjoram_leaves Vodka Sugar Water Food_coloring Food_coloring 
+Tea Water Condensed milk Ice Mint 
+Vodka Sugar Anise Licorice root Wormwood 
+Sugar Water Apricot Almond flavoring Grain alcohol Water Brandy Food coloring Food coloring Food coloring Glycerine 
+Angelica root Almond Allspice Cinnamon Anise Coriander Marjoram leaves Vodka Sugar Water Food coloring Food coloring 
 Orange Vodka Sugar 
-Coffee Vanilla_extract Sugar Vodka Water 
-Water Sugar Coffee Vanilla Vodka Caramel_coloring 
-Cranberries Sugar Light_rum 
-Sugar Water Grain_alcohol Peppermint_extract Food_coloring 
-Scotch Half-and-half Condensed_milk Coconut_syrup Chocolate_syrup 
-Johnnie_Walker Honey Angelica_root Fennel_seeds Lemon_peel 
-Water Brown_sugar Coffee Rum Vanilla_extract 
-Water Ginger Guava_juice Lemon_juice Pineapple Sugar Pineapple_juice 
-Apple_cider Brown_sugar Lemonade Orange_juice Cloves Allspice Nutmeg Cinnamon 
-Tea Rye_whiskey Red_wine Rum Brandy Benedictine Orange_juice Lemon_juice 
-Everclear Wine Orange_juice Kool-Aid 
-Cranberry_juice Sugar Pineapple_juice Almond_flavoring Ginger_ale 
-Egg_yolk Sugar Milk Light_rum Bourbon Vanilla_extract Salt Whipping_cream Egg_white Sugar Nutmeg 
-Egg Sugar Salt Milk Vanilla_extract 
-Egg Sugar Condensed_milk Milk Vanilla_extract Rum Nutmeg 
-Red_wine Water Sugar Cinnamon Cloves Lemon_peel 
-Grape_juice Carbonated_soft_drink Sherbet Sherbet 
-Water Sugar Cloves Cinnamon Lemon_peel Red_wine Brandy 
-Red_wine Sugar Orange_juice Lemon_juice Cloves Cinnamon 
-Red_wine Sugar Water Apple Orange Lime Lemon Fresca 
-Red_wine Sugar Lemon Orange Apple Brandy Soda_water 
-Peach_nectar Orange_juice Brown_sugar Cinnamon Cloves Lime_juice 
+Coffee Vanilla extract Sugar Vodka Water 
+Water Sugar Coffee Vanilla Vodka Caramel coloring 
+Cranberries Sugar Light rum 
+Sugar Water Grain alcohol Peppermint extract Food coloring 
+Scotch Half-and-half Condensed milk Coconut syrup Chocolate syrup 
+Johnnie Walker Honey Angelica root Fennel seeds Lemon peel 
+Water Brown sugar Coffee Rum Vanilla extract 
+Water Ginger Guava juice Lemon juice Pineapple Sugar Pineapple juice 
+Apple cider Brown sugar Lemonade Orange juice Cloves Allspice Nutmeg Cinnamon 
+Tea Rye whiskey Red wine Rum Brandy Benedictine Orange juice Lemon juice 
+Everclear Wine Orange juice Kool-Aid 
+Cranberry juice Sugar Pineapple juice Almond flavoring Ginger ale 
+Egg yolk Sugar Milk Light rum Bourbon Vanilla extract Salt Whipping cream Egg white Sugar Nutmeg 
+Egg Sugar Salt Milk Vanilla extract 
+Egg Sugar Condensed milk Milk Vanilla extract Rum Nutmeg 
+Red wine Water Sugar Cinnamon Cloves Lemon peel 
+Grape juice Carbonated soft drink Sherbet Sherbet 
+Water Sugar Cloves Cinnamon Lemon peel Red wine Brandy 
+Red wine Sugar Orange juice Lemon juice Cloves Cinnamon 
+Red wine Sugar Water Apple Orange Lime Lemon Fresca 
+Red wine Sugar Lemon Orange Apple Brandy Soda water 
+Peach nectar Orange juice Brown sugar Cinnamon Cloves Lime juice 
 Lemon Sugar Strawberries Water 
-Pineapple_juice Club_soda Orange_juice Lemon Berries Champagne 
-Red_wine Lemon-lime_soda Ice 
-Red_wine Lemon Orange_juice Orange Pineapple_juice 
-Tequila Triple_sec Lime_juice Salt 
-Grenadine Kahlua Bailey's_irish_cream 
-Tequila Tabasco_sauce 
-Firewater Absolut_Peppar Tabasco_sauce 
-Vodka Cherry_liqueur Cranberry_juice Orange_juice 
-Lemonade Vodka Blue_Curacao Triple_sec Sugar Ice 
-Lager Cider Blackcurrant_cordial 
-Kahlua Bailey's_irish_cream Frangelico Coffee Cream 
-Vodka Amaretto Sloe_gin Triple_sec Cranberry_juice 
-Rum Vodka Gin Blue_Curacao Sour_mix Lemon-lime_soda 
-Whiskey Hot_Damn 
-Vodka Lime Angostura_bitters Tonic_water Ice 
-Kahlua Midori_melon_liqueur Bailey's_irish_cream 
+Pineapple juice Club soda Orange juice Lemon Berries Champagne 
+Red wine Lemon-lime soda Ice 
+Red wine Lemon Orange juice Orange Pineapple juice 
+Tequila Triple sec Lime juice Salt 
+Grenadine Kahlua Bailey's irish cream 
+Tequila Tabasco sauce 
+Firewater Absolut Peppar Tabasco sauce 
+Vodka Cherry liqueur Cranberry juice Orange juice 
+Lemonade Vodka Blue Curacao Triple sec Sugar Ice 
+Lager Cider Blackcurrant cordial 
+Kahlua Bailey's irish cream Frangelico Coffee Cream 
+Vodka Amaretto Sloe gin Triple sec Cranberry juice 
+Rum Vodka Gin Blue Curacao Sour mix Lemon-lime soda 
+Whiskey Hot Damn 
+Vodka Lime Angostura bitters Tonic water Ice 
+Kahlua Midori melon liqueur Bailey's irish cream 
 Whiskey Beer Lemonade Ice 
-Amaretto Vodka 151_proof_rum Dr._Pepper Beer 
-Absolut_Citron Grand_Marnier Lemon_juice Club_soda 
-Lime Sugar White_rum Ice 
-Pisco Lemon_juice Sugar Ice 
-Irish_cream Goldschlager 
-Vodka Lime_juice Ginger_ale 
-Ale Guinness_stout 
-Chocolate_liqueur Milk Amaretto 
-Kahlua Sambuca Grand_Marnier 
-Vodka Cranberry_juice Grapefruit_juice 
+Amaretto Vodka 151 proof rum Dr. Pepper Beer 
+Absolut Citron Grand Marnier Lemon juice Club soda 
+Lime Sugar White rum Ice 
+Pisco Lemon juice Sugar Ice 
+Irish cream Goldschlager 
+Vodka Lime juice Ginger ale 
+Ale Guinness stout 
+Chocolate liqueur Milk Amaretto 
+Kahlua Sambuca Grand Marnier 
+Vodka Cranberry juice Grapefruit juice 
 Lager Cider 
-Midori_melon_liqueur Jägermeister Goldschlager 
-Sambuca Erin_Cream Advocaat 
-Vodka Southern_Comfort Passion_fruit_syrup Sweet_and_sour Club_soda 
-Light_rum Lime Sugar Mint Soda_water 
-Cider Lager Blue_Curacao 
-Vodka Kahlua Bailey's_irish_cream Vanilla_ice-cream Oreo_cookie 
-Amaretto Bailey's_irish_cream Cognac 
-Sprite Pink_lemonade Vodka 
-Vodka Iced_tea Lemon_juice 
-Peach_Vodka Coca-Cola 
-Tequila Orange_juice Grenadine 
-Vodka Bailey's_irish_cream Kahlua 
+Midori melon liqueur Jägermeister Goldschlager 
+Sambuca Erin Cream Advocaat 
+Vodka Southern Comfort Passion fruit syrup Sweet and sour Club soda 
+Light rum Lime Sugar Mint Soda water 
+Cider Lager Blue Curacao 
+Vodka Kahlua Bailey's irish cream Vanilla ice-cream Oreo cookie 
+Amaretto Bailey's irish cream Cognac 
+Sprite Pink lemonade Vodka 
+Vodka Iced tea Lemon juice 
+Peach Vodka Coca-Cola 
+Tequila Orange juice Grenadine 
+Vodka Bailey's irish cream Kahlua 
 Sambuca Sarsaparilla 
-7-Up Apple_schnapps 
-Amaretto Sour_mix 
-Dark_rum Lime Coca-Cola Ice 
-Blackberry_brandy Anis 
-Peppermint_schnapps Kahlua Bailey's_irish_cream 
-Kahlua Bailey's_irish_cream Goldschlager Heavy_cream Coffee 
-Creme_de_Cassis Champagne 
-Sweet_Vermouth Bourbon Angostura_bitters Ice Maraschino_cherry Orange_peel 
-Jack_Daniels Amaretto 
-Bailey's_irish_cream Frangelico Milk 
-Jack_Daniels Johnnie_Walker Jim_Beam 
-151_proof_rum Pina_colada_mix Daiquiri_mix 
-Absolut_Vodka Gin Tonic_water 
-Gin 7-Up Lemon_juice 
-Irish_whiskey Coffee Sugar Whipped_cream 
-Creme_de_Cacao Vodka 
-Goldschlager Butterscotch_schnapps Milk 
+7-Up Apple schnapps 
+Amaretto Sour mix 
+Dark rum Lime Coca-Cola Ice 
+Blackberry brandy Anis 
+Peppermint schnapps Kahlua Bailey's irish cream 
+Kahlua Bailey's irish cream Goldschlager Heavy cream Coffee 
+Creme de Cassis Champagne 
+Sweet Vermouth Bourbon Angostura bitters Ice Maraschino cherry Orange peel 
+Jack Daniels Amaretto 
+Bailey's irish cream Frangelico Milk 
+Jack Daniels Johnnie Walker Jim Beam 
+151 proof rum Pina colada mix Daiquiri mix 
+Absolut Vodka Gin Tonic water 
+Gin 7-Up Lemon juice 
+Irish whiskey Coffee Sugar Whipped cream 
+Creme de Cacao Vodka 
+Goldschlager Butterscotch schnapps Milk 
 Amaretto Rum Kool-Aid 
-Vodka Coconut_liqueur Blue_Curacao Sprite 
-Crown_Royal Amaretto Cranberry_juice 
-Coffee_liqueur Light_rum Ice Milk 
-Absolut_Citron Sweet_and_sour Sprite Soda_water Lemon 
-Cointreau Vodka Lime Cranberry_juice 
-Vermouth Apple_juice 
-Vodka Dry_Vermouth Olive 
-Coffee Milk Triple_sec Brandy 
+Vodka Coconut liqueur Blue Curacao Sprite 
+Crown Royal Amaretto Cranberry juice 
+Coffee liqueur Light rum Ice Milk 
+Absolut Citron Sweet and sour Sprite Soda water Lemon 
+Cointreau Vodka Lime Cranberry juice 
+Vermouth Apple juice 
+Vodka Dry Vermouth Olive 
+Coffee Milk Triple sec Brandy 
 Advocaat Lemonade Lemon Ice 
-Coffee Chambord_raspberry_liqueur Cocoa_powder Whipped_cream 
-Kahlua Bailey's_irish_cream Frangelico 
-Vodka Grenadine Orange_juice 
-Kahlua Galliano Soda_water 
-Amaretto Sour_mix Orange_juice 
-Bailey's_irish_cream Godiva_liqueur Kahlua Butterscotch_schnapps Milk 
-Absolut_Kurant Midori_melon_liqueur Cranberry_juice Sprite 
-Lemonade Vodka Rum Ginger_ale 
-Absolut_Vodka Cointreau Lemon 
-Absolut_Citron Lime_juice Ice Tonic_water 
-Absolut_Citron Pisang_Ambon Ice Bitter_lemon 
-Beer Amaretto Orange_juice 
+Coffee Chambord raspberry liqueur Cocoa powder Whipped cream 
+Kahlua Bailey's irish cream Frangelico 
+Vodka Grenadine Orange juice 
+Kahlua Galliano Soda water 
+Amaretto Sour mix Orange juice 
+Bailey's irish cream Godiva liqueur Kahlua Butterscotch schnapps Milk 
+Absolut Kurant Midori melon liqueur Cranberry juice Sprite 
+Lemonade Vodka Rum Ginger ale 
+Absolut Vodka Cointreau Lemon 
+Absolut Citron Lime juice Ice Tonic water 
+Absolut Citron Pisang Ambon Ice Bitter lemon 
+Beer Amaretto Orange juice 
 Kool-Aid Vodka 
-Absolut_Kurant Tea Sugar 
-Kahlua Sambuca Bailey's_irish_cream 
-Cherry_Heering Soda_water Orange_juice Ice 
-Bailey's_irish_cream Vanilla_ice-cream Cream 
-Bailey's_irish_cream Kahlua Sambuca 
-White_Creme_de_Menthe Southern_Comfort Vodka Hot_chocolate 
-Cranberry_juice Soda_water Midori_melon_liqueur Creme_de_Banane 
-Amaretto Orange_juice Grenadine 
-Absolut_Vodka Iced_tea 
-Spiced_rum Grenadine Orange_juice Sour_mix 
-Malibu_rum Light_rum 151_proof_rum Dark_Creme_de_Cacao Cointreau Milk Coconut_liqueur Vanilla_ice-cream 
-Cointreau Lemon_juice Ice Lemon 
-Vanilla_vodka Grand_Marnier Orange_juice 
-Tequila Tabasco_sauce 
-Spiced_rum Ginger_ale 
-151_proof_rum Wild_Turkey 
-Vodka Grape_soda Orange_juice Ice Candy 
-Kahlua 151_proof_rum Grenadine 
+Absolut Kurant Tea Sugar 
+Kahlua Sambuca Bailey's irish cream 
+Cherry Heering Soda water Orange juice Ice 
+Bailey's irish cream Vanilla ice-cream Cream 
+Bailey's irish cream Kahlua Sambuca 
+White Creme de Menthe Southern Comfort Vodka Hot chocolate 
+Cranberry juice Soda water Midori melon liqueur Creme de Banane 
+Amaretto Orange juice Grenadine 
+Absolut Vodka Iced tea 
+Spiced rum Grenadine Orange juice Sour mix 
+Malibu rum Light rum 151 proof rum Dark Creme de Cacao Cointreau Milk Coconut liqueur Vanilla ice-cream 
+Cointreau Lemon juice Ice Lemon 
+Vanilla vodka Grand Marnier Orange juice 
+Tequila Tabasco sauce 
+Spiced rum Ginger ale 
+151 proof rum Wild Turkey 
+Vodka Grape soda Orange juice Ice Candy 
+Kahlua 151 proof rum Grenadine 
 Jägermeister Sambuca Vodka 
-Vodka Banana_liqueur Orange_juice Peach_schnapps 
-Kiwi_liqueur Bitter_lemon Ice 
-Irish_whiskey Bailey's_irish_cream Coffee 
-Bailey's_irish_cream White_Creme_de_Menthe Cream 
-Grand_Marnier Coffee 
-Peachtree_schnapps Surge 
+Vodka Banana liqueur Orange juice Peach schnapps 
+Kiwi liqueur Bitter lemon Ice 
+Irish whiskey Bailey's irish cream Coffee 
+Bailey's irish cream White Creme de Menthe Cream 
+Grand Marnier Coffee 
+Peachtree schnapps Surge 
 Vodka Jello Water 
-Rum Ginger_ale Fruit_punch Orange_juice Ice 
-Wild_Turkey Amaretto Pineapple_juice 
-Absolut_Vodka Cranberry_juice Ginger_ale Ice 
-Cranberry_vodka Apfelkorn Schweppes_Russchian Apple_juice Ice 
-Crown_Royal Peach_schnapps Chambord_raspberry_liqueur Cranberry_juice 
-Corona Bacardi_Limon 
-Orange_juice Apple_juice Pineapple_juice Ice 
-Orange_juice Grapefruit_juice Apple_juice Maraschino_cherry 
-Yukon_Jack Cherry_brandy Southern_Comfort Sweet_and_sour 
-Vodka Creme_de_Banane Orange_juice 
-Vodka Creme_de_Banane Grenadine Orange_juice 
-Chocolate_ice-cream Brandy Amaretto 
-Coconut_rum Amaretto Orange_juice Grenadine 
-Malibu_rum Tropicana Cranberry_juice 
-151_proof_rum Malibu_rum Pineapple_juice Orange_juice Grenadine Cherries 
-Jägermeister Root_beer 
-Vodka Pisang_Ambon Apple_juice Lemon_juice Lemonade 
-151_proof_rum Wild_Turkey 
-Gin Light_rum Tequila Triple_sec Vodka Coca-Cola Sweet_and_sour Bitters Lemon 
-Sambuca Bailey's_irish_cream White_Creme_de_Menthe 
-Vodka Triple_sec Orange_juice 
-Dark_rum Light_rum Vodka Orange_juice 
-Absolut_Kurant Grand_Marnier Chambord_raspberry_liqueur Midori_melon_liqueur Malibu_rum Amaretto Cranberry_juice Pineapple_juice 
-Vodka Schweppes_Russchian 
+Rum Ginger ale Fruit punch Orange juice Ice 
+Wild Turkey Amaretto Pineapple juice 
+Absolut Vodka Cranberry juice Ginger ale Ice 
+Cranberry vodka Apfelkorn Schweppes Russchian Apple juice Ice 
+Crown Royal Peach schnapps Chambord raspberry liqueur Cranberry juice 
+Corona Bacardi Limon 
+Orange juice Apple juice Pineapple juice Ice 
+Orange juice Grapefruit juice Apple juice Maraschino cherry 
+Yukon Jack Cherry brandy Southern Comfort Sweet and sour 
+Vodka Creme de Banane Orange juice 
+Vodka Creme de Banane Grenadine Orange juice 
+Chocolate ice-cream Brandy Amaretto 
+Coconut rum Amaretto Orange juice Grenadine 
+Malibu rum Tropicana Cranberry juice 
+151 proof rum Malibu rum Pineapple juice Orange juice Grenadine Cherries 
+Jägermeister Root beer 
+Vodka Pisang Ambon Apple juice Lemon juice Lemonade 
+151 proof rum Wild Turkey 
+Gin Light rum Tequila Triple sec Vodka Coca-Cola Sweet and sour Bitters Lemon 
+Sambuca Bailey's irish cream White Creme de Menthe 
+Vodka Triple sec Orange juice 
+Dark rum Light rum Vodka Orange juice 
+Absolut Kurant Grand Marnier Chambord raspberry liqueur Midori melon liqueur Malibu rum Amaretto Cranberry juice Pineapple juice 
+Vodka Schweppes Russchian 
 Coffee Everclear 
 Lager Tequila 
-Malibu_rum Peach_schnapps Blue_Curacao Sweet_and_sour 
-Kahlua Milk Vanilla_ice-cream 
-Coffee Jack_Daniels Amaretto Whipped_cream 
+Malibu rum Peach schnapps Blue Curacao Sweet and sour 
+Kahlua Milk Vanilla ice-cream 
+Coffee Jack Daniels Amaretto Whipped cream 
 Coffee Aquavit Sugar 
-Gin Campari Sweet_Vermouth 
+Gin Campari Sweet Vermouth 
 Vodka Lemonade Water Sugar 
-Absolut_Vodka Peach_schnapps Coconut_liqueur Cranberry_juice Pineapple_juice 
-Banana_liqueur Creme_de_Cacao Chocolate_ice-cream Chocolate_syrup Chocolate_milk Whipped_cream Cherry Banana 
-Kahlua Irish_cream Amaretto 151_proof_rum Cream 
-Vodka Kirschwasser Strawberry_liqueur Strawberries Schweppes_Russchian 
-Beer Root_beer Lemonade Coca-Cola 7-Up Creme_de_Cassis Lemon 
-Coffee Peach_schnapps 
-Black_Sambuca Orange_juice 
-Lager Cider Blackcurrant_squash 
-Midori_melon_liqueur Zima 
-Hot_Damn Tea 
-Rum Coffee Water Whipped_cream 
-Mint Lemon_juice Dark_rum Club_soda Angostura_bitters 
-Apricot_brandy Champagne Vodka 7-Up Orange_juice 
-Bailey's_irish_cream Grand_Marnier Kahlua 
-Sambuca Root_beer Ice 
-Campari Sweet_Vermouth Lemon_peel Orange_peel 
-Ice Chocolate_syrup Cherry_brandy Vodka Milk 
-Galliano Ginger_ale Ice 
+Absolut Vodka Peach schnapps Coconut liqueur Cranberry juice Pineapple juice 
+Banana liqueur Creme de Cacao Chocolate ice-cream Chocolate syrup Chocolate milk Whipped cream Cherry Banana 
+Kahlua Irish cream Amaretto 151 proof rum Cream 
+Vodka Kirschwasser Strawberry liqueur Strawberries Schweppes Russchian 
+Beer Root beer Lemonade Coca-Cola 7-Up Creme de Cassis Lemon 
+Coffee Peach schnapps 
+Black Sambuca Orange juice 
+Lager Cider Blackcurrant squash 
+Midori melon liqueur Zima 
+Hot Damn Tea 
+Rum Coffee Water Whipped cream 
+Mint Lemon juice Dark rum Club soda Angostura bitters 
+Apricot brandy Champagne Vodka 7-Up Orange juice 
+Bailey's irish cream Grand Marnier Kahlua 
+Sambuca Root beer Ice 
+Campari Sweet Vermouth Lemon peel Orange peel 
+Ice Chocolate syrup Cherry brandy Vodka Milk 
+Galliano Ginger ale Ice 
 Beer 7-Up 
-Southern_Comfort Orange_juice Pepsi_Cola 
+Southern Comfort Orange juice Pepsi Cola 
 Lager Campari 
-Amaretto Dark_Creme_de_Cacao Coffee 
-Sour_mix Amaretto Tequila Orange_juice 
-Absolut_Citron Orange_Curacao Strawberry_liqueur Orange_juice 
-Absolut_Citron Orange_juice Triple_sec Ginger_ale 
-Ice Tequila Cream_of_coconut Lime_juice 
-Ice Vodka Peach_nectar Peach_schnapps Lemon_peel 
-Gin Vodka Grenadine Lime_juice Sugar Sugar_syrup Soda_water 
+Amaretto Dark Creme de Cacao Coffee 
+Sour mix Amaretto Tequila Orange juice 
+Absolut Citron Orange Curacao Strawberry liqueur Orange juice 
+Absolut Citron Orange juice Triple sec Ginger ale 
+Ice Tequila Cream of coconut Lime juice 
+Ice Vodka Peach nectar Peach schnapps Lemon peel 
+Gin Vodka Grenadine Lime juice Sugar Sugar syrup Soda water 
 Absinthe Tequila Grenadine 
-Amaretto Sweet_and_sour Midori_melon_liqueur Pineapple_juice 
-Malibu_rum Blackberry_brandy Orange_juice Pineapple_juice Cranberry_juice 
-Whisky Bailey's_irish_cream Coffee 
-Creme_de_Cacao Blue_Curacao Light_rum 
+Amaretto Sweet and sour Midori melon liqueur Pineapple juice 
+Malibu rum Blackberry brandy Orange juice Pineapple juice Cranberry juice 
+Whisky Bailey's irish cream Coffee 
+Creme de Cacao Blue Curacao Light rum 
 Lemonade Water Vodka 
-Ice Tennessee_whiskey Vanilla_extract Coca-Cola 
-Tequila Apple_cider 
-Dark_rum Orange Surge Cranberry_juice 
-Jack_Daniels Midori_melon_liqueur Sour_mix 
-Rum Vodka Tequila Triple_sec Fruit Ice Salt Fruit_juice 
-Vodka Midori_melon_liqueur Sweet_and_sour 
-Guinness_stout Root_beer 
-Amaretto Southern_Comfort Ice Sour_mix 
-Crown_Royal Kahlua Cream 
-Vanilla_ice-cream Coca-Cola Bourbon 
-Kahlua Sambuca Blue_Curacao Bailey's_irish_cream 
-Chambord_raspberry_liqueur Vodka Soda_water 
-Vodka Peach_schnapps Orange_juice Cranberry_juice 
+Ice Tennessee whiskey Vanilla extract Coca-Cola 
+Tequila Apple cider 
+Dark rum Orange Surge Cranberry juice 
+Jack Daniels Midori melon liqueur Sour mix 
+Rum Vodka Tequila Triple sec Fruit Ice Salt Fruit juice 
+Vodka Midori melon liqueur Sweet and sour 
+Guinness stout Root beer 
+Amaretto Southern Comfort Ice Sour mix 
+Crown Royal Kahlua Cream 
+Vanilla ice-cream Coca-Cola Bourbon 
+Kahlua Sambuca Blue Curacao Bailey's irish cream 
+Chambord raspberry liqueur Vodka Soda water 
+Vodka Peach schnapps Orange juice Cranberry juice 
 Kahlua Brandy Coffee 
-Apple_juice Malibu_rum Cinnamon 
+Apple juice Malibu rum Cinnamon 
 Vodka Ouzo 
 Vodka Half-and-half Limeade Ice Nutmeg 
-Rum Vodka Tequila Gin Triple_sec Chambord_raspberry_liqueur Midori_melon_liqueur Malibu_rum 
-Jim_Beam Jack_Daniels Wild_Turkey 
-Southern_Comfort Triple_sec Lime Sour_mix 
-Bailey's_irish_cream Bourbon Vodka Orange_juice 
-Godiva_liqueur Milk 
-Fruit_punch Sprite Tequila 151_proof_rum 
-Everclear Vodka Peach_schnapps Orange_juice Cranberry_juice 
-Orange_juice Rum Vodka Cream Ice 
-Vodka Chambord_raspberry_liqueur Peachtree_schnapps Cranberry_juice 
-Dark_rum Vodka Triple_sec Tequila Melon_liqueur Mountain_Dew 
-Amaretto Lemon Ice Maraschino_cherry 
-151_proof_rum Kool-Aid 
-Vodka Kahlua Coca-Cola Guinness_stout 
+Rum Vodka Tequila Gin Triple sec Chambord raspberry liqueur Midori melon liqueur Malibu rum 
+Jim Beam Jack Daniels Wild Turkey 
+Southern Comfort Triple sec Lime Sour mix 
+Bailey's irish cream Bourbon Vodka Orange juice 
+Godiva liqueur Milk 
+Fruit punch Sprite Tequila 151 proof rum 
+Everclear Vodka Peach schnapps Orange juice Cranberry juice 
+Orange juice Rum Vodka Cream Ice 
+Vodka Chambord raspberry liqueur Peachtree schnapps Cranberry juice 
+Dark rum Vodka Triple sec Tequila Melon liqueur Mountain Dew 
+Amaretto Lemon Ice Maraschino cherry 
+151 proof rum Kool-Aid 
+Vodka Kahlua Coca-Cola Guinness stout 
 Jägermeister Goldschlager 
-Zima Chambord_raspberry_liqueur 
-Corona Bacardi_Limon 
-Sugar Corn_syrup Coffee Vanilla_extract Water Vodka 
-Goldschlager Jägermeister Rumple_Minze 151_proof_rum 
-Corona Light_rum 
-Vodka Gin Lime_juice_cordial Ice 
-Vodka Malibu_rum Gold_tequila Orange_juice Pineapple_juice Cream_of_coconut Grenadine Ice Pineapple 
-Kahlua Bailey's_irish_cream 
-Amaretto Grand_Marnier Southern_Comfort 
-Blue_Curacao Blueberry_schnapps Vodka Sour_mix 7-Up 
-Coca-Cola Lemon_juice 
-Gin Cranberry_juice Grenadine 
-Maui Mountain_Dew Ice 
-Everclear Vodka Mountain_Dew Surge Lemon_juice Rum 
-Frangelico Crown_Royal 
-Bacardi_Limon Coca-Cola 
-Red_wine Peach_schnapps Pepsi_Cola Orange_juice 
-Raspberry_vodka Lemon-lime_soda Ice 
-Triple_sec Amaretto Cider Ice 
-Gin Tequila Vodka White_rum Triple_Sec Cherry_Grenadine Sweet_and_sour Club_soda 
-Cachaca Lemon_Juice Agave_Syrup Champagne 
-Lime Brown_sugar Passion_fruit_juice Ginger_ale Ice 
-demerara_Sugar Lime Cachaca 
-Baileys_irish_cream Chambord_raspberry_liqueur Sugar_syrup Sugar 
-Bourbon Angostura_bitters Sugar Water 
-Gin lemon_juice maraschino_liqueur 
-Vodka Dry_Vermouth Olive_Brine Lemon Olive 
-Pisco Lime_Juice Pineapple_Syrup St._Germain Angostura_Bitters Pepper Lavender 
-Light_rum Lime_juice Sugar_syrup Grenadine 
-Brandy Light_rum Triple_sec Lemon_juice 
-Gin Maraschino_liqueur Lemon_juice Orange_bitters Cherry 
-Gin Grenadine Lemon Egg_white 
-gin Peach_Bitters Mint 
-Light_rum Pineapple_juice Maraschino_liqueur Grenadine Maraschino_cherry 
-Gin Benedictine Orange_juice Grenadine 
-Gin Apricot_Brandy Orange_Juice 
-Dark_rum Orgeat_syrup Orange_juice Pineapple_juice 
-Brandy Port Egg_Yolk 
-Brandy White_Creme_de_Menthe 
-Gin Triple_Sec Lemon_Juice 
-Champagne Peach_schnapps 
-Absolut_Citron Lime_juice Cointreau Cranberry_juice 
-Gin Sugar Lemon_juice Champagne Orange Maraschino_cherry 
+Zima Chambord raspberry liqueur 
+Corona Bacardi Limon 
+Sugar Corn syrup Coffee Vanilla extract Water Vodka 
+Goldschlager Jägermeister Rumple Minze 151 proof rum 
+Corona Light rum 
+Vodka Gin Lime juice cordial Ice 
+Vodka Malibu rum Gold tequila Orange juice Pineapple juice Cream of coconut Grenadine Ice Pineapple 
+Kahlua Bailey's irish cream 
+Amaretto Grand Marnier Southern Comfort 
+Blue Curacao Blueberry schnapps Vodka Sour mix 7-Up 
+Coca-Cola Lemon juice 
+Gin Cranberry juice Grenadine 
+Maui Mountain Dew Ice 
+Everclear Vodka Mountain Dew Surge Lemon juice Rum 
+Frangelico Crown Royal 
+Bacardi Limon Coca-Cola 
+Red wine Peach schnapps Pepsi Cola Orange juice 
+Raspberry vodka Lemon-lime soda Ice 
+Triple sec Amaretto Cider Ice 
+Gin Tequila Vodka White rum Triple Sec Cherry Grenadine Sweet and sour Club soda 
+Cachaca Lemon Juice Agave Syrup Champagne 
+Lime Brown sugar Passion fruit juice Ginger ale Ice 
+demerara Sugar Lime Cachaca 
+Baileys irish cream Chambord raspberry liqueur Sugar syrup Sugar 
+Bourbon Angostura bitters Sugar Water 
+Gin lemon juice maraschino liqueur 
+Vodka Dry Vermouth Olive Brine Lemon Olive 
+Pisco Lime Juice Pineapple Syrup St. Germain Angostura Bitters Pepper Lavender 
+Light rum Lime juice Sugar syrup Grenadine 
+Brandy Light rum Triple sec Lemon juice 
+Gin Maraschino liqueur Lemon juice Orange bitters Cherry 
+Gin Grenadine Lemon Egg white 
+gin Peach Bitters Mint 
+Light rum Pineapple juice Maraschino liqueur Grenadine Maraschino cherry 
+Gin Benedictine Orange juice Grenadine 
+Gin Apricot Brandy Orange Juice 
+Dark rum Orgeat syrup Orange juice Pineapple juice 
+Brandy Port Egg Yolk 
+Brandy White Creme de Menthe 
+Gin Triple Sec Lemon Juice 
+Champagne Peach schnapps 
+Absolut Citron Lime juice Cointreau Cranberry juice 
+Gin Sugar Lemon juice Champagne Orange Maraschino cherry 
 Cognac Amaretto 
-Galliano Triple_Sec orange_juice Cream 
-Green_Creme_de_Menthe Creme_de_Cacao Light_cream 
-Rum Grapefruit_Juice Maraschino_Liqueur Lime_Juice 
-Lemon_peel Brandy Ginger_ale Bitters 
-Creme_de_Cassis Champagne 
-Vodka Tequila Light_rum Gin Coca-Cola Lemon_peel 
-Champagne Orange_juice 
-Mint Bourbon Powdered_sugar Water 
-Light_rum Coconut_milk Pineapple 
-Dry_Vermouth Gin Apricot_brandy Lemon_juice Grenadine Powdered_sugar 
-Rum Galliano Pineapple_Juice Lime_Juice Prosecco 
-Gin lemon_juice Sugar_syrup Creme_de_Mure 
-Dark_Rum Ginger_Beer 
-Vodka Kahlua Sugar_syrup 
-Vodka Raspberry_Liqueur pineapple_juice 
-Vodka Creme_de_Cassis Sugar_Syrup Lemon_Juice 
-Prosecco Campari Soda_Water 
-Tequila Lime_Juice Agave_syrup 
-Tequila Tomato_Juice Orange_Juice Lime_Juice Sugar_Syrup Salt 
-Gin Vodka Lillet_Blanc 
-White_Rum Galliano Triple_Sec Lime_Juice 
-Vanilla_Ice-Cream Butterscotch_schnapps Milk Vodka 
-Vanilla_Ice-Cream Milk Godiva_liqueur Whipped_Cream caramel_sauce chocolate_sauce Mini-snickers_bars 
-Gin Grand_Marnier Lemon_Juice Grenadine 
-Gin Sweet_Vermouth Orange_Juice Angostura_Bitters 
-Vodka Cranberry_Juice Champagne 
-Gin Grenadine Heavy_cream Milk Egg_White 
-Gin Cognac Creme_de_Cassis Fresh_Lemon_Juice 
-Sweet_Vermouth Dry_Vermouth Soda_Water 
+Galliano Triple Sec orange juice Cream 
+Green Creme de Menthe Creme de Cacao Light cream 
+Rum Grapefruit Juice Maraschino Liqueur Lime Juice 
+Lemon peel Brandy Ginger ale Bitters 
+Creme de Cassis Champagne 
+Vodka Tequila Light rum Gin Coca-Cola Lemon peel 
+Champagne Orange juice 
+Mint Bourbon Powdered sugar Water 
+Light rum Coconut milk Pineapple 
+Dry Vermouth Gin Apricot brandy Lemon juice Grenadine Powdered sugar 
+Rum Galliano Pineapple Juice Lime Juice Prosecco 
+Gin lemon juice Sugar syrup Creme de Mure 
+Dark Rum Ginger Beer 
+Vodka Kahlua Sugar syrup 
+Vodka Raspberry Liqueur pineapple juice 
+Vodka Creme de Cassis Sugar Syrup Lemon Juice 
+Prosecco Campari Soda Water 
+Tequila Lime Juice Agave syrup 
+Tequila Tomato Juice Orange Juice Lime Juice Sugar Syrup Salt 
+Gin Vodka Lillet Blanc 
+White Rum Galliano Triple Sec Lime Juice 
+Vanilla Ice-Cream Butterscotch schnapps Milk Vodka 
+Vanilla Ice-Cream Milk Godiva liqueur Whipped Cream caramel sauce chocolate sauce Mini-snickers bars 
+Gin Grand Marnier Lemon Juice Grenadine 
+Gin Sweet Vermouth Orange Juice Angostura Bitters 
+Vodka Cranberry Juice Champagne 
+Gin Grenadine Heavy cream Milk Egg White 
+Gin Cognac Creme de Cassis Fresh Lemon Juice 
+Sweet Vermouth Dry Vermouth Soda Water 
 Gin Vermouth 
-Rum Dry_Vermouth Cognac Gin Fresh_Lime_Juice Sugar_Syrup Water 
-Gin Grenadine lemon Soda_Water Lime 
-Gin Chocolate_liqueur Amaretto Chocolate_Sauce Salted_Chocolate 
-Vermouth Maraschino_Cherry Sugar_Syrup Lemonade Blackberries 
-Rum Gold_rum 151_proof_rum Pernod Grenadine Lime_Juice Angostura_Bitters 
-Gin Creme_de_Cassis Fresh_Lime_Juice Ginger_beer Lime Ginger 
-Gin Blue_Curacao Tonic_Water Rosemary 
-Mezcal Chocolate_liqueur Coffee_liqueur 
-Green_Chartreuse Maraschino_Liqueur Lime_Juice 
-Gin Lillet Sweet_Vermouth Orange_Peel 
-Gin Orange_Curacao Lime_Juice Angostura_Bitters Orange_Bitters 
-Gin Triple_Sec Lillet_Blanc Lemon_Juice Absinthe 
-Campari Sweet_Vermouth Rye_whiskey Orange_Peel 
-Vodka Grapefruit_Juice 
-Grape_Soda Tequila 
-Orange_Bitters Green_Chartreuse Gin Sweet_Vermouth 
-Gin Lime_Juice Sugar_Syrup Lime 
-Gin Sweet_Vermouth Maraschino_Liqueur Angostura_Bitters 
-Kahlua Bailey Butterscotch_schnapps Jagermeister Goldschlager 
-Rum Dark_Rum Banana_liqueur Grenadine Pineapple_Juice Orange_Juice Sweet_and_Sour 
-Rum Dark_Rum Passoa Blue_Curacao Sweet_and_Sour Ice 
-Gin Elderflower_cordial Rosso_Vermouth Tonic_Water Lime Ginger Mint 
-Hot_Chocolate Green_Chartreuse Cherry_Heering 
-Irish_Whiskey Amaretto Cranberry_Juice 
-Rye_whiskey Campari Dry_Vermouth 
-Irish_Whiskey Sweet_Vermouth Green_Chartreuse 
-Blended_Scotch Lemon_Juice Honey_syrup Ginger_Syrup Islay_single_malt_Scotch 
+Rum Dry Vermouth Cognac Gin Fresh Lime Juice Sugar Syrup Water 
+Gin Grenadine lemon Soda Water Lime 
+Gin Chocolate liqueur Amaretto Chocolate Sauce Salted Chocolate 
+Vermouth Maraschino Cherry Sugar Syrup Lemonade Blackberries 
+Rum Gold rum 151 proof rum Pernod Grenadine Lime Juice Angostura Bitters 
+Gin Creme de Cassis Fresh Lime Juice Ginger beer Lime Ginger 
+Gin Blue Curacao Tonic Water Rosemary 
+Mezcal Chocolate liqueur Coffee liqueur 
+Green Chartreuse Maraschino Liqueur Lime Juice 
+Gin Lillet Sweet Vermouth Orange Peel 
+Gin Orange Curacao Lime Juice Angostura Bitters Orange Bitters 
+Gin Triple Sec Lillet Blanc Lemon Juice Absinthe 
+Campari Sweet Vermouth Rye whiskey Orange Peel 
+Vodka Grapefruit Juice 
+Grape Soda Tequila 
+Orange Bitters Green Chartreuse Gin Sweet Vermouth 
+Gin Lime Juice Sugar Syrup Lime 
+Gin Sweet Vermouth Maraschino Liqueur Angostura Bitters 
+Kahlua Bailey Butterscotch schnapps Jagermeister Goldschlager 
+Rum Dark Rum Banana liqueur Grenadine Pineapple Juice Orange Juice Sweet and Sour 
+Rum Dark Rum Passoa Blue Curacao Sweet and Sour Ice 
+Gin Elderflower cordial Rosso Vermouth Tonic Water Lime Ginger Mint 
+Hot Chocolate Green Chartreuse Cherry Heering 
+Irish Whiskey Amaretto Cranberry Juice 
+Rye whiskey Campari Dry Vermouth 
+Irish Whiskey Sweet Vermouth Green Chartreuse 
+Blended Scotch Lemon Juice Honey syrup Ginger Syrup Islay single malt Scotch 
