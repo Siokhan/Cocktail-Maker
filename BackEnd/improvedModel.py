@@ -1,8 +1,23 @@
-from sklearn.linear_model import SGDClassifier
+from sklearn.feature_extraction.text import CountVectorizer
+import json
 
-X = [[0., 0.], [1., 1.]]
-y = [0, 1]
-clf = SGDClassifier(loss="hinge", penalty="l2")
-clf.fit(X, y)
+cocktailList = []
+corpus = []
+vectorizer = CountVectorizer()
+biVectorizer = CountVectorizer(ngram_range=(1, 2), token_pattern=r'\b\w+\b', min_df=1)
 
-clf.predict([[2., 2.]])
+with open('cocktailList.json') as json_data:
+    d = json.load(json_data)
+    for cocktail in d:
+        cocktailList.append(cocktail['ingredients'])
+
+with open('cocktails.txt') as openfile:
+    for line in openfile:
+        x = [line]
+        print(biVectorizer.fit_transform(x))
+        print(line)
+        corpus.append(line)
+            
+X2 = biVectorizer.fit_transform(corpus)
+print(X2)
+print(corpus)
