@@ -49,6 +49,7 @@ for i, cocktail in enumerate(cocktailList):
 popularitydf = pd.read_csv('popularity.csv', encoding='ISO-8859-1', index_col=0)
 popularitydf['rating'] = '0'
 popularitydf['adjustedrating'] = '0'
+popularitydf['ingredients(hashed)'] = 'abc'
 maxIndex = len(popularitydf.index)
 for i in range(0, maxIndex):
     popVal = popularitydf.get_value(i, 'popularity')
@@ -72,7 +73,11 @@ for cock in cocktailsParsed:
         csvwriter.writerow(header)
         count += 1
     csvwriter.writerow(cock.values())
-
 cockData.close()
-test = transform(40000000000)
-print(test)
+
+## Adding hashed ingredients to popularity table ##
+ingredientdf = pd.read_csv('cocktails.csv', encoding='ISO-8859-1')
+for i in range(0, maxIndex):
+    cockIngredients = ingredientdf.get_value(i, 'ingredients')
+    popularitydf.set_value(i, 'ingredients(hashed)', value=cockIngredients)
+popularitydf.to_csv('popularity.csv')

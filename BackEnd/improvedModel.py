@@ -29,16 +29,16 @@ shape = X2.shape
 #print(corpus)
 #print(shape)
 
-data = pd.read_csv('cocktails.csv', encoding='ISO-8859-1')
-feature = ['ingredients']
+data = pd.read_csv('popularity.csv', encoding='ISO-8859-1')
+feature = ['ingredientsHashed']
 totalEntries = len(data.index)
 print(totalEntries)
 X = data.loc[:, feature]
-y = data.label
+y = data.adjustedrating
 hashlist = []
 
 for i in range(0, totalEntries):
-    hashes = data.get_value(i, 'ingredients')
+    hashes = data.get_value(i, 'ingredientsHashed')
     hashlist.append(hashes)
 X3 = biVectorizer.fit_transform(hashlist)
 ## classifier ##
