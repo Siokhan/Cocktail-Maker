@@ -22,8 +22,6 @@ def adjuster(oldValue):
     newMin = 0
     oldRange = (oldMax - oldMin)
     newRange = (newMax - newMin)
-    print(oldMax)
-    print(oldMin)
     newValue = (((oldValue - oldMin) * newRange) / oldRange) + newMin
     return newValue
 
@@ -44,13 +42,14 @@ for i, cocktail in enumerate(cocktailList):
     file2.write('\n')
 
 ## adjusting popularity value to be more readable ##
-popularitydf = pd.read_csv('popularity.csv', encoding='ISO-8859-1')
-popularitydf['rating'] = 'abc'
+popularitydf = pd.read_csv('popularity.csv', encoding='ISO-8859-1', index_col=0)
+popularitydf['rating'] = '0'
 maxIndex = len(popularitydf.index)
-# for i in range(0, maxIndex):
-#     popVal = popularitydf.get_value(i, 'popularity')
-#     newPop = adjuster(popVal)
-#     popularitydf.set_value(i, 'rating', value=newPop)
+for i in range(0, maxIndex):
+    popVal = popularitydf.get_value(i, 'popularity')
+    newPop = adjuster(popVal)
+    popularitydf.set_value(i, 'rating', value=newPop)
+popularitydf.to_csv('popularity.csv')
 
 ## Creating CSV file with cocktails and their attributes ##
 
