@@ -16,14 +16,18 @@ def vectorizer(name):
 
 def adjuster(oldValue):
     populardf = pd.read_csv('popularity.csv', encoding='ISO-8859-1')
-    oldMax = populardf['popularity'].max()
-    oldMin = populardf['popularity'].min()
+    oldMax = populardf['rating'].max()
+    oldMin = populardf['rating'].min()
     newMax = 10
     newMin = 0
     oldRange = (oldMax - oldMin)
     newRange = (newMax - newMin)
     newValue = (((oldValue - oldMin) * newRange) / oldRange) + newMin
     return newValue
+
+def transform(popularVal):
+    transformed = np.log10(popularVal)
+    return transformed
 
 with open('cocktailList.json') as json_data:
     d = json.load(json_data)
@@ -44,15 +48,18 @@ for i, cocktail in enumerate(cocktailList):
 ## adjusting popularity value to be more readable ##
 popularitydf = pd.read_csv('popularity.csv', encoding='ISO-8859-1', index_col=0)
 popularitydf['rating'] = '0'
+popularitydf['adjustedrating'] = '0'
 maxIndex = len(popularitydf.index)
 for i in range(0, maxIndex):
     popVal = popularitydf.get_value(i, 'popularity')
-    newPop = adjuster(popVal)
+    newPop = transform(popVal)
     popularitydf.set_value(i, 'rating', value=newPop)
+    rating = popularitydf.get_value(i, 'rating')
+    newRating = adjuster(rating)
+    popularitydf.set_value(i, 'adjustedrating', value=newRating)
 popularitydf.to_csv('popularity.csv')
 
 ## Creating CSV file with cocktails and their attributes ##
-
 cocktailsParsed = json.load(open('labels.json'))
 cockData = open('cocktails.csv', 'w+')
 
@@ -67,3 +74,5 @@ for cock in cocktailsParsed:
     csvwriter.writerow(cock.values())
 
 cockData.close()
+test = transform(40000000000)
+print(test)
