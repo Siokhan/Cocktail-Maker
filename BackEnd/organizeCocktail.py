@@ -56,7 +56,7 @@ for i in range(0, maxIndex):
     newPop = transform(popVal)
     popularitydf.set_value(i, 'rating', value=newPop)
     rating = popularitydf.get_value(i, 'rating')
-    newRating = adjuster(rating)
+    newRating = int(round(adjuster(rating)))
     popularitydf.set_value(i, 'adjustedrating', value=newRating)
 popularitydf.to_csv('popularity.csv')
 

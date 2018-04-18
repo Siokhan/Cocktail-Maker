@@ -25,12 +25,3 @@ with open('cocktailList.json') as json_data:
         print(cocktail['strDrink'], value)
         results.write('{}, {}\n'.format(cocktail['strDrink'], value))
         sleep(1)
-        
-
-
-# r  = requests.get(url)
-# data = r.text
-
-# soup = BeautifulSoup(data)
-# for link in soup.select( 'html body div.non-overlay.gray-trans-back div.container div.row div.span8 div#eh-1748056798.events-horizontal div.eh-container.row ul.eh-slider li.h-item div.h-meta div.title a[href]'):
-#     print link.get('href')
