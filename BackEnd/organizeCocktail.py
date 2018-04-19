@@ -18,7 +18,7 @@ def adjuster(oldValue):
     populardf = pd.read_csv('popularity.csv', encoding='ISO-8859-1')
     oldMax = populardf['rating'].max()
     oldMin = populardf['rating'].min()
-    newMax = 10
+    newMax = 10000
     newMin = 0
     oldRange = (oldMax - oldMin)
     newRange = (newMax - newMin)
