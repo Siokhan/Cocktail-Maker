@@ -76,8 +76,8 @@ for cock in cocktailsParsed:
 cockData.close()
 
 ## Adding hashed ingredients to popularity table ##
-ingredientdf = pd.read_csv('cocktails.csv', encoding='ISO-8859-1')
-for i in range(0, maxIndex):
-    cockIngredients = ingredientdf.get_value(i, 'ingredients')
-    popularitydf.set_value(i, 'ingredients(hashed)', value=cockIngredients)
-popularitydf.to_csv('popularity.csv')
+# ingredientdf = pd.read_csv('cocktails.csv', encoding='ISO-8859-1')
+# for i in range(0, maxIndex):
+#     cockIngredients = ingredientdf.get_value(i, 'ingredients')
+#     popularitydf.set_value(i, 'ingredients(hashed)', value=cockIngredients)
+# popularitydf.to_csv('popularity.csv')
