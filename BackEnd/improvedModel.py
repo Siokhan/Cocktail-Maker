@@ -1,6 +1,6 @@
 from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.naive_bayes import GaussianNB
 from sklearn.linear_model import SGDClassifier
+from sklearn.naive_bayes import GaussianNB
 from sklearn import svm
 from sklearn.externals import joblib
 import json
@@ -36,17 +36,36 @@ for i in range(0, totalEntries):
     hashlist.append(hashes)
 X = biVectorizer.fit_transform(hashlist)
 y = data.adjustedrating
-## classifier ##
 
+## classifier ##
 clf = SGDClassifier(loss='hinge', penalty='l2', max_iter=5, shuffle=False)
 clf.fit(X, y)
-joblib.dump(clf, 'classifier.pkl')
+joblib.dump(clf, 'SGDclassifier.pkl')
+
+clf2 = svm.SVC()
+clf2.fit(X, y)
+
+gnb = GaussianNB()
+gnb.fit(X.toarray(), y) 
 
 test = ['916a17d53dff7bbd06635fac294e86eb 4ca90a18e9f0d1242171c3c66074714b']
 badtest = ['3f3e574c181f45eea2aa2548e75f4434 909cea0c97058cfe2e3ea8d675cb08e1 80766a792c83776a1302211303533d76']
 xtest = biVectorizer.transform(test)
 ytest = biVectorizer.transform(badtest)
-predicted = clf.predict(xtest)
-badpredicted = clf.predict(ytest)
-print(predicted)
-print(badpredicted)
+clfPredicted = clf.predict(xtest)
+clfBadpredicted = clf.predict(ytest)
+
+clf2Predicted = clf2.predict(xtest)
+clf2Badpredicted = clf2.predict(ytest)
+
+gnbPredicted = gnb.predict(xtest.toarray())
+gnbBadpredicted = gnb.predict(ytest.toarray())
+
+print(clfPredicted)
+print(clfBadpredicted)
+
+print(clf2Predicted)
+print(clf2Badpredicted)
+
+print(gnbPredicted)
+print(gnbBadpredicted)
