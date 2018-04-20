@@ -14,7 +14,7 @@ corpus = []
 vectorizer = CountVectorizer()
 biVectorizer = CountVectorizer(ngram_range=(1, 2), token_pattern=r'\b\w+\b', min_df=1)
 
-with open('cocktailsVector.txt') as openfile:
+with open('./Data/cocktailsVector.txt') as openfile:
     for line in openfile:
         x = line.split(' ')
         cocktailList.append({
@@ -23,10 +23,10 @@ with open('cocktailsVector.txt') as openfile:
         })
         corpus.append(line)
 
-json.dump(cocktailList, open('labels.json', 'w+'))   
+json.dump(cocktailList, open('./Data/labels.json', 'w+'))   
 
 ## Data for classifier organized ##            
-data = pd.read_csv('popularity.csv', encoding='ISO-8859-1')
+data = pd.read_csv('./Data/popularity.csv', encoding='ISO-8859-1')
 feature = 'ingredientsHashed'
 totalEntries = len(data.index)
 print(totalEntries)

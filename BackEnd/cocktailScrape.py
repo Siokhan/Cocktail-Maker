@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-f = open('cocktailList.json', 'w+')
+f = open('./Data/cocktailList.json', 'w+')
 
 cocktail_list = []
 for i in range(11000, 18000):

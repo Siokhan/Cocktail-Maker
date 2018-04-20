@@ -5,9 +5,9 @@ from bs4 import BeautifulSoup
 
 url = "https://www.google.co.uk/search?q="
 selector = '#resultStats'
-results = open('popularity.csv', 'a')
+results = open('./Data/popularity.csv', 'a')
 # results.write('name, popularity \n')
-with open('cocktailList.json') as json_data:
+with open('./Data/cocktailList.json') as json_data:
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0',
     }

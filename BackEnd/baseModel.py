@@ -47,7 +47,7 @@ def makeCocktail(curr, probDict, T = 4):
 
 if __name__ == '__main__':
 	cocktailFreqDict = {}
-	cocktailProbDict = addToDict('cocktails.txt', cocktailFreqDict)
+	cocktailProbDict = addToDict('./Data/cocktails.txt', cocktailFreqDict)
 
 	startWord = input("What do you want to start your cocktail with?\n > ")
 	print("Alright, here's your cocktail:")

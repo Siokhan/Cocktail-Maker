@@ -15,7 +15,7 @@ def vectorizer(name):
     return None
 
 def adjuster(oldValue):
-    populardf = pd.read_csv('popularity.csv', encoding='ISO-8859-1')
+    populardf = pd.read_csv('./Data/popularity.csv', encoding='ISO-8859-1')
     oldMax = populardf['rating'].max()
     oldMin = populardf['rating'].min()
     newMax = 10
@@ -29,15 +29,15 @@ def transform(popularVal):
     transformed = np.log10(popularVal)
     return transformed
 
-with open('cocktailList.json') as json_data:
+with open('./Data/cocktailList.json') as json_data:
     d = json.load(json_data)
     for cocktail in d:
         cocktailList.append(cocktail['ingredients'])
 
-with open('vectorKey.json') as json_data:
+with open('./Data/vectorKey.json') as json_data:
     ingredientList = json.load(json_data)
 
-file2 = open('cocktails.txt', 'w+')
+file2 = open('./Data/cocktails.txt', 'w+')
 for i, cocktail in enumerate(cocktailList):
     for ingredient in cocktail:
         if(ingredient['name'] != None):
@@ -46,7 +46,7 @@ for i, cocktail in enumerate(cocktailList):
     file2.write('\n')
 
 ## adjusting popularity value to be more readable ##
-popularitydf = pd.read_csv('popularity.csv', encoding='ISO-8859-1', index_col=0)
+popularitydf = pd.read_csv('./Data/popularity.csv', encoding='ISO-8859-1', index_col=0)
 popularitydf['rating'] = '0'
 popularitydf['adjustedrating'] = '0'
 popularitydf['ingredients(hashed)'] = 'abc'
@@ -58,11 +58,11 @@ for i in range(0, maxIndex):
     rating = popularitydf.get_value(i, 'rating')
     newRating = int(round(adjuster(rating)))
     popularitydf.set_value(i, 'adjustedrating', value=newRating)
-popularitydf.to_csv('popularity.csv')
+popularitydf.to_csv('./Data/popularity.csv')
 
 ## Creating CSV file with cocktails and their attributes ##
-cocktailsParsed = json.load(open('labels.json'))
-cockData = open('cocktails.csv', 'w+')
+cocktailsParsed = json.load(open('./Data/labels.json'))
+cockData = open('./Data/cocktails.csv', 'w+')
 
 csvwriter = csv.writer(cockData)
 
@@ -76,8 +76,8 @@ for cock in cocktailsParsed:
 cockData.close()
 
 ## Adding hashed ingredients to popularity table ##
-# ingredientdf = pd.read_csv('cocktails.csv', encoding='ISO-8859-1')
+# ingredientdf = pd.read_csv('./Data/cocktails.csv', encoding='ISO-8859-1')
 # for i in range(0, maxIndex):
 #     cockIngredients = ingredientdf.get_value(i, 'ingredients')
 #     popularitydf.set_value(i, 'ingredients(hashed)', value=cockIngredients)
-# popularitydf.to_csv('popularity.csv')
+# popularitydf.to_csv('./Data/popularity.csv')
