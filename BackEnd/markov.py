@@ -1,4 +1,5 @@
 import random, re 
+from vectorKey import hash
 
 # freqDict is a dict of dict containing frequencies
 def addToDict(fileName, freqDict):
@@ -49,8 +50,8 @@ def makeCocktail(curr, probDict, T = 4):
 
 if __name__ == '__main__':
 	cocktailFreqDict = {}
-	cocktailProbDict = addToDict('./Data/cocktails.txt', cocktailFreqDict)
+	cocktailProbDict = addToDict('./Data/cocktailsVector.txt', cocktailFreqDict)
 
 	startWord = input("What do you want your cocktail to contain?\n > ")
 	print("Alright, here's your cocktail:")
-	print(makeCocktail(startWord, cocktailProbDict))
+	print(makeCocktail(hash(startWord), cocktailProbDict))

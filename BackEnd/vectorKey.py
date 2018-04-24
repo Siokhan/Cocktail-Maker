@@ -26,7 +26,5 @@ for i in range(0, len(setName)):
     })
 
 numIngredients = len(masterList)
-print(masterList)
-print(numIngredients)
 file = open('./Data/vectorKey.json', 'w+')
 json.dump(masterList, file)
