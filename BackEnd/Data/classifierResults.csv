@@ -1,0 +1,5 @@
+classifier name,bad cocktail rating,good cocktail rating
+SGD,8,4
+SVC,4,4
+GNB,4,8
+
