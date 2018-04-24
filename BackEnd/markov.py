@@ -4,7 +4,7 @@ import random, re
 def addToDict(fileName, freqDict):
 	f = open(fileName, 'r')
 	words = re.sub("\n", " \n", f.read()).lower().split(' ')
-
+	#Hidden markov model constructed below
 	# count frequencies curr -> succ
 	for curr, succ in zip(words[1:], words[:-1]):
 		# check if curr is already in the dict of dicts
@@ -26,6 +26,7 @@ def addToDict(fileName, freqDict):
 			probDict[curr][succ] = currDict[succ] / currTotal
 	return probDict
 
+#choosing which ingredient to come next based on the probabilities
 def markov_next(curr, probDict):
 	if curr not in probDict:
 		return random.choice(list(probDict.keys()))
@@ -39,6 +40,7 @@ def markov_next(curr, probDict):
 				return succ
 		return random.choice(list(probDict.keys()))
 
+#function responsible for actually creating a cocktail
 def makeCocktail(curr, probDict, T = 4):
 	cocktail = [curr]
 	for t in range(T):
