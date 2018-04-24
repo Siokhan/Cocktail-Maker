@@ -39,6 +39,8 @@ with open('./Data/vectorKey.json') as json_data:
 
 file2 = open('./Data/cocktails.txt', 'w+')
 for i, cocktail in enumerate(cocktailList):
+    if i == 242:
+        break
     for ingredient in cocktail:
         if(ingredient['name'] != None):
             #print('gucci', ingredient['name'])
