@@ -49,7 +49,7 @@ clf2.fit(X, y)
 gnb = GaussianNB()
 gnb.fit(X.toarray(), y)
 
-## classifiers applied ##
+## classifiers applied/tested ##
 
 test = ['916a17d53dff7bbd06635fac294e86eb 4ca90a18e9f0d1242171c3c66074714b']
 badtest = ['3f3e574c181f45eea2aa2548e75f4434 909cea0c97058cfe2e3ea8d675cb08e1 80766a792c83776a1302211303533d76']
