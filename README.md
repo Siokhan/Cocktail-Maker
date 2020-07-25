@@ -1,2 +1,1 @@
-# Dissertation
-Undergrad dissertation
+# Cocktail creation using a markov chain decision process.
